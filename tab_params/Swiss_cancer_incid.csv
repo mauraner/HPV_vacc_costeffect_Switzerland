@@ -1,0 +1,1626 @@
+﻿Région,Sexe,Période,ICD-10,Type cancer,Nombre de cas ,Taux brut , Taux standardisé ,lower 95% ,upper IC 95%
+Suisse,Hommes,1990,C00-14,Cavité buccale et pharynx,654,19.9,20,18,22.2
+Suisse,Hommes,1990,C15,Œsophage,282,8.6,8.5,7.2,10
+Suisse,Hommes,1990,C16,Estomac,678,20.7,19.6,17.6,21.8
+Suisse,Hommes,1990,C17,Intestin grêle,75,2.3,2.2,1.6,3
+Suisse,Hommes,1990,C18-20,Côlon et Rectum,1612,49.2,46.7,43.5,50
+Suisse,Hommes,1990,C21,Anus et Canal anal,40,1.2,1.2,0.8,1.8
+Suisse,Hommes,1990,C22,Foie,320,9.8,9.4,8,10.9
+Suisse,Hommes,1990,C23-24,Vésicule et voies biliaires extra-hépat.,110,3.3,3.3,2.5,4.2
+Suisse,Hommes,1990,C25,Pancréas,409,12.5,12,10.4,13.7
+Suisse,Hommes,1990,C32,Larynx,213,6.5,6.6,5.4,8
+Suisse,Hommes,1990,C33-34,"Poumon, Bronches, Trachée",2438,74.4,72.8,68.8,77
+Suisse,Hommes,1990,"C38.4,C45.0",Plèvre,82,2.5,2.5,1.8,3.3
+Suisse,Hommes,1990,C40-41,"Os, Articulations, Cartilage",47,1.4,1.4,0.9,2.1
+Suisse,Hommes,1990,C43,Mélanome,509,15.5,15.3,13.4,17.2
+Suisse,Hommes,1990,"C47,C49",Tissus mous,86,2.6,2.5,1.8,3.3
+Suisse,Hommes,1990,C50,Sein,22,0.7,0.7,0.3,1.1
+Suisse,Hommes,1990,C61,Prostate,3086,94.1,87.4,83,91.9
+Suisse,Hommes,1990,C62,Testicule,353,10.8,9.8,8.4,11.3
+Suisse,Hommes,1990,C64,Rein,429,13.1,12.6,11,14.4
+Suisse,Hommes,1990,C67,Vessie,797,24.3,23,20.8,25.3
+Suisse,Hommes,1990,"C65-66,C68",Autres organes urinaires,95,2.9,2.6,1.9,3.5
+Suisse,Hommes,1990,C69,Œil,30,0.9,1,0.5,1.6
+Suisse,Hommes,1990,C70-72,Cerveau et Système nerveux central,251,7.7,7.6,6.3,9.1
+Suisse,Hommes,1990,C73,Thyroïde,88,2.7,2.6,1.9,3.5
+Suisse,Hommes,1990,C81,Lymphome de Hodgkin,94,2.9,2.7,2,3.6
+Suisse,Hommes,1990,"C82-86,C96",Lymphome non hodgkinien,568,17.3,16.7,14.9,18.8
+Suisse,Hommes,1990,C90,Myélome multiple,171,5.2,5,4,6.2
+Suisse,Hommes,1990,C91-95,Leucémie,450,13.7,13.4,11.7,15.2
+Suisse,Hommes,1990,C91,Leucémie lymphoïde,253,7.7,7.5,6.3,9
+Suisse,Hommes,1990,C92-94,Leucémie myéloïde,182,5.5,5.3,4.3,6.5
+Suisse,Hommes,1990,Other_C-code,Autres localisations du cancer,679,20.7,20.2,18.2,22.5
+Suisse,Hommes,1990,"C00-43,C45-97",Tous les cancers (voir Méthode pour les critères d’inclusion),14668,447.5,429.2,419.5,439.1
+Suisse,Hommes,1991,C00-14,Cavité buccale et pharynx,689,20.8,21,18.9,23.3
+Suisse,Hommes,1991,C15,Œsophage,231,7,6.8,5.7,8.1
+Suisse,Hommes,1991,C16,Estomac,644,19.4,18.6,16.6,20.8
+Suisse,Hommes,1991,C17,Intestin grêle,84,2.5,2.5,1.8,3.3
+Suisse,Hommes,1991,C18-20,Côlon et Rectum,1788,53.9,51.4,48.1,54.9
+Suisse,Hommes,1991,C21,Anus et Canal anal,38,1.2,1.1,0.7,1.7
+Suisse,Hommes,1991,C22,Foie,344,10.4,10,8.6,11.6
+Suisse,Hommes,1991,C23-24,Vésicule et voies biliaires extra-hépat.,111,3.4,3.1,2.4,4.1
+Suisse,Hommes,1991,C25,Pancréas,398,12,11.5,10,13.2
+Suisse,Hommes,1991,C32,Larynx,224,6.8,6.9,5.7,8.3
+Suisse,Hommes,1991,C33-34,"Poumon, Bronches, Trachée",2433,73.3,72.1,68.2,76.2
+Suisse,Hommes,1991,"C38.4,C45.0",Plèvre,76,2.3,2.3,1.6,3.1
+Suisse,Hommes,1991,C40-41,"Os, Articulations, Cartilage",28,0.8,0.8,0.5,1.4
+Suisse,Hommes,1991,C43,Mélanome,546,16.5,16.1,14.2,18.1
+Suisse,Hommes,1991,"C47,C49",Tissus mous,81,2.5,2.5,1.8,3.3
+Suisse,Hommes,1991,C50,Sein,26,0.8,0.8,0.4,1.3
+Suisse,Hommes,1991,C61,Prostate,3364,101.3,94.3,89.8,99
+Suisse,Hommes,1991,C62,Testicule,355,10.7,9.6,8.2,11.1
+Suisse,Hommes,1991,C64,Rein,414,12.5,12.4,10.8,14.2
+Suisse,Hommes,1991,C67,Vessie,791,23.8,22.7,20.5,25
+Suisse,Hommes,1991,"C65-66,C68",Autres organes urinaires,55,1.7,1.5,1,2.2
+Suisse,Hommes,1991,C69,Œil,44,1.3,1.3,0.8,2
+Suisse,Hommes,1991,C70-72,Cerveau et Système nerveux central,264,8,7.9,6.6,9.4
+Suisse,Hommes,1991,C73,Thyroïde,91,2.7,2.7,1.9,3.6
+Suisse,Hommes,1991,C81,Lymphome de Hodgkin,118,3.6,3.3,2.5,4.3
+Suisse,Hommes,1991,"C82-86,C96",Lymphome non hodgkinien,574,17.3,16.4,14.6,18.4
+Suisse,Hommes,1991,C90,Myélome multiple,211,6.4,6.3,5.1,7.6
+Suisse,Hommes,1991,C91-95,Leucémie,451,13.6,13.3,11.6,15.2
+Suisse,Hommes,1991,C91,Leucémie lymphoïde,235,7.1,7.1,5.9,8.5
+Suisse,Hommes,1991,C92-94,Leucémie myéloïde,207,6.2,6,4.9,7.2
+Suisse,Hommes,1991,Other_C-code,Autres localisations du cancer,659,19.8,18.8,16.8,20.9
+Suisse,Hommes,1991,"C00-43,C45-97",Tous les cancers (voir Méthode pour les critères d’inclusion),15133,455.9,438.1,428.3,448
+Suisse,Hommes,1992,C00-14,Cavité buccale et pharynx,629,18.7,18.9,16.9,21
+Suisse,Hommes,1992,C15,Œsophage,272,8.1,8.2,7,9.7
+Suisse,Hommes,1992,C16,Estomac,568,16.9,16.2,14.4,18.1
+Suisse,Hommes,1992,C17,Intestin grêle,70,2.1,2,1.4,2.8
+Suisse,Hommes,1992,C18-20,Côlon et Rectum,1772,52.8,50.3,47.1,53.7
+Suisse,Hommes,1992,C21,Anus et Canal anal,31,0.9,0.9,0.5,1.5
+Suisse,Hommes,1992,C22,Foie,348,10.4,10,8.6,11.5
+Suisse,Hommes,1992,C23-24,Vésicule et voies biliaires extra-hépat.,97,2.9,2.8,2,3.7
+Suisse,Hommes,1992,C25,Pancréas,448,13.3,12.7,11.1,14.4
+Suisse,Hommes,1992,C32,Larynx,206,6.1,6.3,5.2,7.5
+Suisse,Hommes,1992,C33-34,"Poumon, Bronches, Trachée",2473,73.6,71.8,67.9,75.8
+Suisse,Hommes,1992,"C38.4,C45.0",Plèvre,80,2.4,2.3,1.7,3.2
+Suisse,Hommes,1992,C40-41,"Os, Articulations, Cartilage",67,2,2,1.4,2.8
+Suisse,Hommes,1992,C43,Mélanome,580,17.3,16.5,14.7,18.5
+Suisse,Hommes,1992,"C47,C49",Tissus mous,100,3,2.9,2.1,3.8
+Suisse,Hommes,1992,C50,Sein,29,0.9,0.8,0.5,1.4
+Suisse,Hommes,1992,C61,Prostate,3579,106.6,98.5,94,103.2
+Suisse,Hommes,1992,C62,Testicule,366,10.9,9.8,8.4,11.3
+Suisse,Hommes,1992,C64,Rein,460,13.7,13.5,11.8,15.3
+Suisse,Hommes,1992,C67,Vessie,745,22.2,21.2,19.1,23.5
+Suisse,Hommes,1992,"C65-66,C68",Autres organes urinaires,62,1.9,1.7,1.2,2.5
+Suisse,Hommes,1992,C69,Œil,35,1.1,1,0.6,1.6
+Suisse,Hommes,1992,C70-72,Cerveau et Système nerveux central,222,6.6,6.5,5.4,7.9
+Suisse,Hommes,1992,C73,Thyroïde,93,2.8,2.6,1.9,3.5
+Suisse,Hommes,1992,C81,Lymphome de Hodgkin,110,3.3,3.1,2.3,4
+Suisse,Hommes,1992,"C82-86,C96",Lymphome non hodgkinien,582,17.3,16.5,14.7,18.5
+Suisse,Hommes,1992,C90,Myélome multiple,173,5.1,5,4,6.1
+Suisse,Hommes,1992,C91-95,Leucémie,479,14.3,14,12.3,15.9
+Suisse,Hommes,1992,C91,Leucémie lymphoïde,248,7.4,7.5,6.2,8.9
+Suisse,Hommes,1992,C92-94,Leucémie myéloïde,217,6.5,6.2,5.1,7.4
+Suisse,Hommes,1992,Other_C-code,Autres localisations du cancer,658,19.6,18.5,16.5,20.5
+Suisse,Hommes,1992,"C00-43,C45-97",Tous les cancers (voir Méthode pour les critères d’inclusion),15334,456.7,436.4,426.8,446.2
+Suisse,Hommes,1993,C00-14,Cavité buccale et pharynx,656,19.4,19.3,17.4,21.4
+Suisse,Hommes,1993,C15,Œsophage,263,7.7,7.6,6.4,8.9
+Suisse,Hommes,1993,C16,Estomac,581,17.1,16.4,14.6,18.3
+Suisse,Hommes,1993,C17,Intestin grêle,70,2.1,2,1.4,2.7
+Suisse,Hommes,1993,C18-20,Côlon et Rectum,1982,58.5,55.7,52.4,59.3
+Suisse,Hommes,1993,C21,Anus et Canal anal,30,0.9,0.9,0.5,1.5
+Suisse,Hommes,1993,C22,Foie,303,9,8.8,7.5,10.3
+Suisse,Hommes,1993,C23-24,Vésicule et voies biliaires extra-hépat.,117,3.4,3.2,2.4,4.1
+Suisse,Hommes,1993,C25,Pancréas,330,9.7,9.4,8.1,10.9
+Suisse,Hommes,1993,C32,Larynx,225,6.7,6.6,5.5,7.9
+Suisse,Hommes,1993,C33-34,"Poumon, Bronches, Trachée",2444,72.1,70.7,66.9,74.7
+Suisse,Hommes,1993,"C38.4,C45.0",Plèvre,95,2.8,2.8,2,3.7
+Suisse,Hommes,1993,C40-41,"Os, Articulations, Cartilage",19,0.6,0.6,0.3,1
+Suisse,Hommes,1993,C43,Mélanome,611,18,17.5,15.6,19.6
+Suisse,Hommes,1993,"C47,C49",Tissus mous,118,3.5,3.3,2.6,4.3
+Suisse,Hommes,1993,C50,Sein,20,0.6,0.6,0.3,1
+Suisse,Hommes,1993,C61,Prostate,3649,107.7,99.1,94.6,103.8
+Suisse,Hommes,1993,C62,Testicule,371,10.9,10,8.6,11.5
+Suisse,Hommes,1993,C64,Rein,444,13.1,12.9,11.3,14.7
+Suisse,Hommes,1993,C67,Vessie,802,23.7,22.4,20.3,24.7
+Suisse,Hommes,1993,"C65-66,C68",Autres organes urinaires,74,2.2,2.1,1.4,2.8
+Suisse,Hommes,1993,C69,Œil,42,1.2,1.2,0.7,1.8
+Suisse,Hommes,1993,C70-72,Cerveau et Système nerveux central,269,7.9,7.9,6.7,9.4
+Suisse,Hommes,1993,C73,Thyroïde,75,2.2,2.2,1.6,3
+Suisse,Hommes,1993,C81,Lymphome de Hodgkin,116,3.4,3.2,2.4,4.1
+Suisse,Hommes,1993,"C82-86,C96",Lymphome non hodgkinien,559,16.5,15.9,14.1,17.8
+Suisse,Hommes,1993,C90,Myélome multiple,220,6.5,6.2,5.1,7.5
+Suisse,Hommes,1993,C91-95,Leucémie,432,12.8,12.6,11,14.4
+Suisse,Hommes,1993,C91,Leucémie lymphoïde,235,6.9,6.9,5.7,8.3
+Suisse,Hommes,1993,C92-94,Leucémie myéloïde,195,5.7,5.6,4.6,6.9
+Suisse,Hommes,1993,Other_C-code,Autres localisations du cancer,670,19.8,18.5,16.7,20.6
+Suisse,Hommes,1993,"C00-43,C45-97",Tous les cancers (voir Méthode pour les critères d’inclusion),15587,460,439.5,430,449.3
+Suisse,Hommes,1994,C00-14,Cavité buccale et pharynx,646,18.9,18.9,16.9,21
+Suisse,Hommes,1994,C15,Œsophage,320,9.4,9.2,7.9,10.7
+Suisse,Hommes,1994,C16,Estomac,555,16.2,15.3,13.5,17.1
+Suisse,Hommes,1994,C17,Intestin grêle,51,1.5,1.4,0.9,2.1
+Suisse,Hommes,1994,C18-20,Côlon et Rectum,1887,55.2,52.2,49,55.6
+Suisse,Hommes,1994,C21,Anus et Canal anal,32,0.9,0.9,0.5,1.4
+Suisse,Hommes,1994,C22,Foie,336,9.8,9.6,8.3,11.2
+Suisse,Hommes,1994,C23-24,Vésicule et voies biliaires extra-hépat.,109,3.2,3.1,2.3,4
+Suisse,Hommes,1994,C25,Pancréas,456,13.4,12.7,11.1,14.4
+Suisse,Hommes,1994,C32,Larynx,221,6.5,6.4,5.3,7.6
+Suisse,Hommes,1994,C33-34,"Poumon, Bronches, Trachée",2328,68.1,65.6,62,69.4
+Suisse,Hommes,1994,"C38.4,C45.0",Plèvre,71,2.1,2,1.4,2.8
+Suisse,Hommes,1994,C40-41,"Os, Articulations, Cartilage",37,1.1,1.1,0.6,1.7
+Suisse,Hommes,1994,C43,Mélanome,638,18.7,17.9,16,19.9
+Suisse,Hommes,1994,"C47,C49",Tissus mous,112,3.3,3.1,2.3,4
+Suisse,Hommes,1994,C50,Sein,44,1.3,1.2,0.8,1.8
+Suisse,Hommes,1994,C61,Prostate,3863,113.1,104.1,99.5,108.8
+Suisse,Hommes,1994,C62,Testicule,386,11.3,10.1,8.7,11.6
+Suisse,Hommes,1994,C64,Rein,421,12.3,12.2,10.6,14
+Suisse,Hommes,1994,C67,Vessie,786,23,21.7,19.7,24
+Suisse,Hommes,1994,"C65-66,C68",Autres organes urinaires,50,1.5,1.4,0.9,2
+Suisse,Hommes,1994,C69,Œil,39,1.1,1.1,0.7,1.7
+Suisse,Hommes,1994,C70-72,Cerveau et Système nerveux central,230,6.7,6.6,5.5,7.9
+Suisse,Hommes,1994,C73,Thyroïde,113,3.3,3.2,2.4,4.2
+Suisse,Hommes,1994,C81,Lymphome de Hodgkin,97,2.8,2.7,2,3.6
+Suisse,Hommes,1994,"C82-86,C96",Lymphome non hodgkinien,679,19.9,19,17,21.1
+Suisse,Hommes,1994,C90,Myélome multiple,231,6.8,6.5,5.4,7.8
+Suisse,Hommes,1994,C91-95,Leucémie,422,12.3,12,10.4,13.7
+Suisse,Hommes,1994,C91,Leucémie lymphoïde,216,6.3,6.2,5.1,7.5
+Suisse,Hommes,1994,C92-94,Leucémie myéloïde,198,5.8,5.6,4.5,6.8
+Suisse,Hommes,1994,Other_C-code,Autres localisations du cancer,667,19.5,18.4,16.5,20.4
+Suisse,Hommes,1994,"C00-43,C45-97",Tous les cancers (voir Méthode pour les critères d’inclusion),15825,463.2,439.4,429.9,449.1
+Suisse,Hommes,1995,C00-14,Cavité buccale et pharynx,682,19.8,19.8,17.8,21.9
+Suisse,Hommes,1995,C15,Œsophage,297,8.6,8.6,7.3,10
+Suisse,Hommes,1995,C16,Estomac,604,17.6,16.5,14.7,18.4
+Suisse,Hommes,1995,C17,Intestin grêle,67,2,1.9,1.3,2.6
+Suisse,Hommes,1995,C18-20,Côlon et Rectum,1730,50.3,47.5,44.5,50.7
+Suisse,Hommes,1995,C21,Anus et Canal anal,26,0.8,0.7,0.4,1.2
+Suisse,Hommes,1995,C22,Foie,368,10.7,10.2,8.8,11.7
+Suisse,Hommes,1995,C23-24,Vésicule et voies biliaires extra-hépat.,127,3.7,3.5,2.7,4.5
+Suisse,Hommes,1995,C25,Pancréas,400,11.6,10.8,9.4,12.4
+Suisse,Hommes,1995,C32,Larynx,247,7.2,7.1,5.9,8.4
+Suisse,Hommes,1995,C33-34,"Poumon, Bronches, Trachée",2384,69.3,66.9,63.2,70.7
+Suisse,Hommes,1995,"C38.4,C45.0",Plèvre,83,2.4,2.3,1.6,3.1
+Suisse,Hommes,1995,C40-41,"Os, Articulations, Cartilage",41,1.2,1.2,0.7,1.9
+Suisse,Hommes,1995,C43,Mélanome,615,17.9,17.2,15.4,19.3
+Suisse,Hommes,1995,"C47,C49",Tissus mous,121,3.5,3.2,2.5,4.1
+Suisse,Hommes,1995,C50,Sein,20,0.6,0.5,0.3,1
+Suisse,Hommes,1995,C61,Prostate,4030,117.2,108.2,103.5,112.9
+Suisse,Hommes,1995,C62,Testicule,330,9.6,8.5,7.3,9.9
+Suisse,Hommes,1995,C64,Rein,452,13.2,12.8,11.2,14.5
+Suisse,Hommes,1995,C67,Vessie,765,22.3,20.9,18.8,23
+Suisse,Hommes,1995,"C65-66,C68",Autres organes urinaires,50,1.5,1.4,0.9,2
+Suisse,Hommes,1995,C69,Œil,35,1,1,0.6,1.6
+Suisse,Hommes,1995,C70-72,Cerveau et Système nerveux central,309,9,8.8,7.4,10.2
+Suisse,Hommes,1995,C73,Thyroïde,90,2.6,2.5,1.8,3.3
+Suisse,Hommes,1995,C81,Lymphome de Hodgkin,92,2.7,2.6,1.9,3.4
+Suisse,Hommes,1995,"C82-86,C96",Lymphome non hodgkinien,598,17.4,16.5,14.7,18.5
+Suisse,Hommes,1995,C90,Myélome multiple,199,5.8,5.6,4.5,6.7
+Suisse,Hommes,1995,C91-95,Leucémie,456,13.3,12.6,11,14.3
+Suisse,Hommes,1995,C91,Leucémie lymphoïde,252,7.3,7,5.9,8.3
+Suisse,Hommes,1995,C92-94,Leucémie myéloïde,200,5.8,5.5,4.5,6.6
+Suisse,Hommes,1995,Other_C-code,Autres localisations du cancer,670,19.5,18.2,16.3,20.2
+Suisse,Hommes,1995,"C00-43,C45-97",Tous les cancers (voir Méthode pour les critères d’inclusion),15891,462.1,437.2,427.8,446.7
+Suisse,Hommes,1996,C00-14,Cavité buccale et pharynx,641,18.6,18.2,16.3,20.1
+Suisse,Hommes,1996,C15,Œsophage,237,6.9,6.6,5.5,7.8
+Suisse,Hommes,1996,C16,Estomac,639,18.5,17.2,15.4,19.1
+Suisse,Hommes,1996,C17,Intestin grêle,57,1.7,1.6,1.1,2.3
+Suisse,Hommes,1996,C18-20,Côlon et Rectum,1935,56,52.6,49.5,55.9
+Suisse,Hommes,1996,C21,Anus et Canal anal,28,0.8,0.8,0.5,1.3
+Suisse,Hommes,1996,C22,Foie,396,11.5,10.9,9.5,12.4
+Suisse,Hommes,1996,C23-24,Vésicule et voies biliaires extra-hépat.,113,3.3,3.1,2.3,3.9
+Suisse,Hommes,1996,C25,Pancréas,426,12.3,11.6,10.1,13.2
+Suisse,Hommes,1996,C32,Larynx,237,6.9,6.7,5.7,8
+Suisse,Hommes,1996,C33-34,"Poumon, Bronches, Trachée",2433,70.5,67.2,63.7,70.9
+Suisse,Hommes,1996,"C38.4,C45.0",Plèvre,115,3.3,3.2,2.4,4.1
+Suisse,Hommes,1996,C40-41,"Os, Articulations, Cartilage",29,0.8,0.8,0.5,1.3
+Suisse,Hommes,1996,C43,Mélanome,660,19.1,18,16.2,19.9
+Suisse,Hommes,1996,"C47,C49",Tissus mous,135,3.9,3.7,2.9,4.7
+Suisse,Hommes,1996,C50,Sein,27,0.8,0.7,0.4,1.2
+Suisse,Hommes,1996,C61,Prostate,4118,119.2,108.8,104.3,113.5
+Suisse,Hommes,1996,C62,Testicule,382,11.1,10,8.7,11.5
+Suisse,Hommes,1996,C64,Rein,401,11.6,11.1,9.7,12.7
+Suisse,Hommes,1996,C67,Vessie,830,24,22.2,20.2,24.4
+Suisse,Hommes,1996,"C65-66,C68",Autres organes urinaires,86,2.5,2.4,1.7,3.2
+Suisse,Hommes,1996,C69,Œil,13,0.4,0.4,0.2,0.8
+Suisse,Hommes,1996,C70-72,Cerveau et Système nerveux central,253,7.3,7.2,6,8.5
+Suisse,Hommes,1996,C73,Thyroïde,95,2.8,2.6,1.9,3.4
+Suisse,Hommes,1996,C81,Lymphome de Hodgkin,124,3.6,3.5,2.7,4.4
+Suisse,Hommes,1996,"C82-86,C96",Lymphome non hodgkinien,653,18.9,17.7,15.9,19.6
+Suisse,Hommes,1996,C90,Myélome multiple,272,7.9,7.3,6.1,8.6
+Suisse,Hommes,1996,C91-95,Leucémie,444,12.8,12.5,11,14.2
+Suisse,Hommes,1996,C91,Leucémie lymphoïde,247,7.2,7.1,5.9,8.4
+Suisse,Hommes,1996,C92-94,Leucémie myéloïde,184,5.3,5.1,4.1,6.2
+Suisse,Hommes,1996,Other_C-code,Autres localisations du cancer,669,19.4,18,16.2,20
+Suisse,Hommes,1996,"C00-43,C45-97",Tous les cancers (voir Méthode pour les critères d’inclusion),16451,476.4,446.7,437.4,456.1
+Suisse,Hommes,1997,C00-14,Cavité buccale et pharynx,706,20.4,19.8,17.9,21.8
+Suisse,Hommes,1997,C15,Œsophage,305,8.8,8.4,7.2,9.7
+Suisse,Hommes,1997,C16,Estomac,563,16.3,14.8,13.2,16.5
+Suisse,Hommes,1997,C17,Intestin grêle,69,2,1.8,1.3,2.5
+Suisse,Hommes,1997,C18-20,Côlon et Rectum,1896,54.8,50.5,47.4,53.7
+Suisse,Hommes,1997,C21,Anus et Canal anal,33,0.9,0.9,0.5,1.4
+Suisse,Hommes,1997,C22,Foie,442,12.8,12,10.6,13.5
+Suisse,Hommes,1997,C23-24,Vésicule et voies biliaires extra-hépat.,109,3.2,2.9,2.2,3.7
+Suisse,Hommes,1997,C25,Pancréas,414,12,11.1,9.7,12.6
+Suisse,Hommes,1997,C32,Larynx,229,6.6,6.4,5.4,7.6
+Suisse,Hommes,1997,C33-34,"Poumon, Bronches, Trachée",2395,69.2,64.9,61.4,68.5
+Suisse,Hommes,1997,"C38.4,C45.0",Plèvre,114,3.3,3,2.3,3.9
+Suisse,Hommes,1997,C40-41,"Os, Articulations, Cartilage",56,1.6,1.6,1,2.2
+Suisse,Hommes,1997,C43,Mélanome,740,21.4,20.1,18.2,22.2
+Suisse,Hommes,1997,"C47,C49",Tissus mous,150,4.3,4.1,3.2,5.1
+Suisse,Hommes,1997,C50,Sein,36,1,1,0.6,1.5
+Suisse,Hommes,1997,C61,Prostate,4371,126.3,114.2,109.6,119
+Suisse,Hommes,1997,C62,Testicule,322,9.3,8.7,7.4,10.1
+Suisse,Hommes,1997,C64,Rein,425,12.3,11.6,10.2,13.3
+Suisse,Hommes,1997,C67,Vessie,703,20.3,18.6,16.8,20.5
+Suisse,Hommes,1997,"C65-66,C68",Autres organes urinaires,55,1.6,1.5,1,2.1
+Suisse,Hommes,1997,C69,Œil,43,1.2,1.2,0.8,1.8
+Suisse,Hommes,1997,C70-72,Cerveau et Système nerveux central,275,8,7.6,6.4,8.9
+Suisse,Hommes,1997,C73,Thyroïde,88,2.6,2.4,1.8,3.1
+Suisse,Hommes,1997,C81,Lymphome de Hodgkin,107,3.1,3,2.3,3.9
+Suisse,Hommes,1997,"C82-86,C96",Lymphome non hodgkinien,616,17.8,16.5,14.8,18.4
+Suisse,Hommes,1997,C90,Myélome multiple,232,6.7,6.2,5.1,7.3
+Suisse,Hommes,1997,C91-95,Leucémie,496,14.3,13.4,11.8,15.1
+Suisse,Hommes,1997,C91,Leucémie lymphoïde,255,7.4,7.1,5.9,8.3
+Suisse,Hommes,1997,C92-94,Leucémie myéloïde,233,6.7,6.2,5.1,7.3
+Suisse,Hommes,1997,Other_C-code,Autres localisations du cancer,593,17.1,15.9,14.2,17.8
+Suisse,Hommes,1997,"C00-43,C45-97",Tous les cancers (voir Méthode pour les critères d’inclusion),16585,479.1,443.9,434.7,453.2
+Suisse,Hommes,1998,C00-14,Cavité buccale et pharynx,694,20,19.3,17.4,21.3
+Suisse,Hommes,1998,C15,Œsophage,337,9.7,9.1,7.9,10.5
+Suisse,Hommes,1998,C16,Estomac,596,17.2,15.6,13.9,17.4
+Suisse,Hommes,1998,C17,Intestin grêle,95,2.7,2.5,1.8,3.2
+Suisse,Hommes,1998,C18-20,Côlon et Rectum,2020,58.2,53,49.9,56.2
+Suisse,Hommes,1998,C21,Anus et Canal anal,36,1,1,0.6,1.5
+Suisse,Hommes,1998,C22,Foie,385,11.1,10.2,8.9,11.7
+Suisse,Hommes,1998,C23-24,Vésicule et voies biliaires extra-hépat.,105,3,2.8,2.1,3.6
+Suisse,Hommes,1998,C25,Pancréas,477,13.7,12.7,11.2,14.3
+Suisse,Hommes,1998,C32,Larynx,225,6.5,6.2,5.2,7.4
+Suisse,Hommes,1998,C33-34,"Poumon, Bronches, Trachée",2445,70.4,65.7,62.2,69.3
+Suisse,Hommes,1998,"C38.4,C45.0",Plèvre,139,4,3.6,2.8,4.6
+Suisse,Hommes,1998,C40-41,"Os, Articulations, Cartilage",36,1,1,0.6,1.6
+Suisse,Hommes,1998,C43,Mélanome,673,19.4,17.9,16.1,19.8
+Suisse,Hommes,1998,"C47,C49",Tissus mous,147,4.2,3.9,3.1,4.9
+Suisse,Hommes,1998,C50,Sein,31,0.9,0.8,0.5,1.3
+Suisse,Hommes,1998,C61,Prostate,4741,136.5,122.9,118.1,127.8
+Suisse,Hommes,1998,C62,Testicule,384,11.1,10.1,8.7,11.6
+Suisse,Hommes,1998,C64,Rein,469,13.5,12.5,11,14.2
+Suisse,Hommes,1998,C67,Vessie,731,21.1,18.9,17.1,20.8
+Suisse,Hommes,1998,"C65-66,C68",Autres organes urinaires,69,2,1.8,1.3,2.5
+Suisse,Hommes,1998,C69,Œil,32,0.9,0.9,0.5,1.5
+Suisse,Hommes,1998,C70-72,Cerveau et Système nerveux central,307,8.9,8.4,7.2,9.8
+Suisse,Hommes,1998,C73,Thyroïde,108,3.1,2.8,2.2,3.7
+Suisse,Hommes,1998,C81,Lymphome de Hodgkin,116,3.3,3.2,2.5,4.1
+Suisse,Hommes,1998,"C82-86,C96",Lymphome non hodgkinien,606,17.5,16.3,14.6,18.1
+Suisse,Hommes,1998,C90,Myélome multiple,215,6.2,5.5,4.5,6.6
+Suisse,Hommes,1998,C91-95,Leucémie,439,12.6,11.8,10.3,13.4
+Suisse,Hommes,1998,C91,Leucémie lymphoïde,245,7.1,6.7,5.6,8
+Suisse,Hommes,1998,C92-94,Leucémie myéloïde,186,5.4,4.9,4,6
+Suisse,Hommes,1998,Other_C-code,Autres localisations du cancer,634,18.3,16.7,15,18.6
+Suisse,Hommes,1998,"C00-43,C45-97",Tous les cancers (voir Méthode pour les critères d’inclusion),17293,498.1,457,447.8,466.4
+Suisse,Hommes,1999,C00-14,Cavité buccale et pharynx,650,18.6,17.7,15.9,19.6
+Suisse,Hommes,1999,C15,Œsophage,322,9.2,8.6,7.4,9.9
+Suisse,Hommes,1999,C16,Estomac,550,15.8,14.1,12.6,15.8
+Suisse,Hommes,1999,C17,Intestin grêle,88,2.5,2.3,1.7,3
+Suisse,Hommes,1999,C18-20,Côlon et Rectum,2034,58.3,52.2,49.1,55.4
+Suisse,Hommes,1999,C21,Anus et Canal anal,27,0.8,0.7,0.4,1.2
+Suisse,Hommes,1999,C22,Foie,358,10.3,9.3,8.1,10.7
+Suisse,Hommes,1999,C23-24,Vésicule et voies biliaires extra-hépat.,86,2.5,2.3,1.7,3
+Suisse,Hommes,1999,C25,Pancréas,461,13.2,11.9,10.4,13.4
+Suisse,Hommes,1999,C32,Larynx,234,6.7,6.4,5.3,7.6
+Suisse,Hommes,1999,C33-34,"Poumon, Bronches, Trachée",2381,68.2,63,59.6,66.5
+Suisse,Hommes,1999,"C38.4,C45.0",Plèvre,108,3.1,2.8,2.1,3.7
+Suisse,Hommes,1999,C40-41,"Os, Articulations, Cartilage",33,1,1,0.6,1.6
+Suisse,Hommes,1999,C43,Mélanome,808,23.2,21.3,19.3,23.4
+Suisse,Hommes,1999,"C47,C49",Tissus mous,129,3.7,3.4,2.7,4.4
+Suisse,Hommes,1999,C50,Sein,56,1.6,1.5,1,2.1
+Suisse,Hommes,1999,C61,Prostate,4739,135.8,120.7,116.1,125.5
+Suisse,Hommes,1999,C62,Testicule,368,10.5,9.6,8.3,11.1
+Suisse,Hommes,1999,C64,Rein,447,12.8,11.8,10.3,13.4
+Suisse,Hommes,1999,C67,Vessie,736,21.1,19,17.2,21
+Suisse,Hommes,1999,"C65-66,C68",Autres organes urinaires,62,1.8,1.6,1.1,2.3
+Suisse,Hommes,1999,C69,Œil,38,1.1,1,0.6,1.6
+Suisse,Hommes,1999,C70-72,Cerveau et Système nerveux central,314,9,8.7,7.4,10.1
+Suisse,Hommes,1999,C73,Thyroïde,84,2.4,2.1,1.5,2.8
+Suisse,Hommes,1999,C81,Lymphome de Hodgkin,96,2.7,2.6,2,3.5
+Suisse,Hommes,1999,"C82-86,C96",Lymphome non hodgkinien,627,18,16.4,14.7,18.2
+Suisse,Hommes,1999,C90,Myélome multiple,170,4.9,4.4,3.5,5.4
+Suisse,Hommes,1999,C91-95,Leucémie,549,15.7,14.7,13,16.5
+Suisse,Hommes,1999,C91,Leucémie lymphoïde,297,8.5,8,6.8,9.3
+Suisse,Hommes,1999,C92-94,Leucémie myéloïde,236,6.8,6.2,5.2,7.4
+Suisse,Hommes,1999,Other_C-code,Autres localisations du cancer,567,16.3,14.7,13.1,16.5
+Suisse,Hommes,1999,"C00-43,C45-97",Tous les cancers (voir Méthode pour les critères d’inclusion),17123,490.7,445.8,436.7,455
+Suisse,Hommes,2000,C00-14,Cavité buccale et pharynx,612,17.4,16.5,14.8,18.3
+Suisse,Hommes,2000,C15,Œsophage,367,10.4,9.6,8.4,11
+Suisse,Hommes,2000,C16,Estomac,584,16.6,14.9,13.3,16.6
+Suisse,Hommes,2000,C17,Intestin grêle,78,2.2,2,1.5,2.8
+Suisse,Hommes,2000,C18-20,Côlon et Rectum,2057,58.6,52.2,49.2,55.4
+Suisse,Hommes,2000,C21,Anus et Canal anal,37,1.1,0.9,0.6,1.5
+Suisse,Hommes,2000,C22,Foie,446,12.7,11.6,10.3,13.1
+Suisse,Hommes,2000,C23-24,Vésicule et voies biliaires extra-hépat.,109,3.1,2.7,2.1,3.5
+Suisse,Hommes,2000,C25,Pancréas,432,12.3,10.9,9.6,12.4
+Suisse,Hommes,2000,C32,Larynx,256,7.3,6.9,5.8,8.1
+Suisse,Hommes,2000,C33-34,"Poumon, Bronches, Trachée",2398,68.3,61.8,58.5,65.3
+Suisse,Hommes,2000,"C38.4,C45.0",Plèvre,122,3.5,3.3,2.5,4.2
+Suisse,Hommes,2000,C40-41,"Os, Articulations, Cartilage",46,1.3,1.3,0.8,1.9
+Suisse,Hommes,2000,C43,Mélanome,747,21.3,19.2,17.4,21.2
+Suisse,Hommes,2000,"C47,C49",Tissus mous,137,3.9,3.6,2.8,4.5
+Suisse,Hommes,2000,C50,Sein,29,0.8,0.7,0.4,1.2
+Suisse,Hommes,2000,C61,Prostate,4970,141.6,125.8,121.1,130.8
+Suisse,Hommes,2000,C62,Testicule,372,10.6,9.8,8.4,11.2
+Suisse,Hommes,2000,C64,Rein,440,12.5,11.4,10,12.9
+Suisse,Hommes,2000,C67,Vessie,721,20.5,18.2,16.5,20.1
+Suisse,Hommes,2000,"C65-66,C68",Autres organes urinaires,80,2.3,1.9,1.4,2.6
+Suisse,Hommes,2000,C69,Œil,25,0.7,0.7,0.4,1.1
+Suisse,Hommes,2000,C70-72,Cerveau et Système nerveux central,283,8.1,7.5,6.4,8.8
+Suisse,Hommes,2000,C73,Thyroïde,111,3.2,2.8,2.2,3.7
+Suisse,Hommes,2000,C81,Lymphome de Hodgkin,90,2.6,2.4,1.8,3.2
+Suisse,Hommes,2000,"C82-86,C96",Lymphome non hodgkinien,659,18.8,17.2,15.4,19.1
+Suisse,Hommes,2000,C90,Myélome multiple,254,7.2,6.5,5.5,7.7
+Suisse,Hommes,2000,C91-95,Leucémie,477,13.6,12.8,11.2,14.4
+Suisse,Hommes,2000,C91,Leucémie lymphoïde,267,7.6,7.2,6.1,8.5
+Suisse,Hommes,2000,C92-94,Leucémie myéloïde,189,5.4,4.9,4,6
+Suisse,Hommes,2000,Other_C-code,Autres localisations du cancer,635,18.1,16.1,14.4,17.9
+Suisse,Hommes,2000,"C00-43,C45-97",Tous les cancers (voir Méthode pour les critères d’inclusion),17574,500.6,451.5,442.4,460.7
+Suisse,Hommes,2001,C00-14,Cavité buccale et pharynx,651,18.4,17,15.3,18.9
+Suisse,Hommes,2001,C15,Œsophage,337,9.6,8.6,7.4,10
+Suisse,Hommes,2001,C16,Estomac,523,14.8,12.9,11.5,14.6
+Suisse,Hommes,2001,C17,Intestin grêle,112,3.2,2.8,2.1,3.6
+Suisse,Hommes,2001,C18-20,Côlon et Rectum,2101,59.5,52.5,49.5,55.7
+Suisse,Hommes,2001,C21,Anus et Canal anal,57,1.6,1.4,1,2
+Suisse,Hommes,2001,C22,Foie,479,13.6,12.2,10.8,13.7
+Suisse,Hommes,2001,C23-24,Vésicule et voies biliaires extra-hépat.,95,2.7,2.4,1.8,3.2
+Suisse,Hommes,2001,C25,Pancréas,482,13.7,11.8,10.4,13.4
+Suisse,Hommes,2001,C32,Larynx,245,6.9,6.3,5.3,7.4
+Suisse,Hommes,2001,C33-34,"Poumon, Bronches, Trachée",2451,69.4,61.7,58.5,65.1
+Suisse,Hommes,2001,"C38.4,C45.0",Plèvre,119,3.4,3,2.3,3.8
+Suisse,Hommes,2001,C40-41,"Os, Articulations, Cartilage",49,1.4,1.3,0.9,1.9
+Suisse,Hommes,2001,C43,Mélanome,799,22.6,20.5,18.6,22.5
+Suisse,Hommes,2001,"C47,C49",Tissus mous,104,2.9,2.7,2,3.5
+Suisse,Hommes,2001,C50,Sein,36,1,0.9,0.5,1.3
+Suisse,Hommes,2001,C61,Prostate,5408,153.2,134.8,130,139.9
+Suisse,Hommes,2001,C62,Testicule,365,10.4,9.7,8.4,11.2
+Suisse,Hommes,2001,C64,Rein,423,12,10.9,9.5,12.4
+Suisse,Hommes,2001,C67,Vessie,679,19.2,16.8,15.1,18.6
+Suisse,Hommes,2001,"C65-66,C68",Autres organes urinaires,77,2.2,1.9,1.4,2.6
+Suisse,Hommes,2001,C69,Œil,24,0.7,0.7,0.3,1.1
+Suisse,Hommes,2001,C70-72,Cerveau et Système nerveux central,296,8.4,7.9,6.7,9.2
+Suisse,Hommes,2001,C73,Thyroïde,100,2.8,2.6,1.9,3.3
+Suisse,Hommes,2001,C81,Lymphome de Hodgkin,126,3.6,3.5,2.7,4.4
+Suisse,Hommes,2001,"C82-86,C96",Lymphome non hodgkinien,631,17.9,16.1,14.4,17.9
+Suisse,Hommes,2001,C90,Myélome multiple,215,6.1,5.3,4.4,6.4
+Suisse,Hommes,2001,C91-95,Leucémie,533,15.1,13.9,12.3,15.6
+Suisse,Hommes,2001,C91,Leucémie lymphoïde,285,8.1,7.6,6.4,8.9
+Suisse,Hommes,2001,C92-94,Leucémie myéloïde,225,6.4,5.6,4.7,6.7
+Suisse,Hommes,2001,Other_C-code,Autres localisations du cancer,557,15.8,14.1,12.5,15.8
+Suisse,Hommes,2001,"C00-43,C45-97",Tous les cancers (voir Méthode pour les critères d’inclusion),18076,512.2,456.3,447.2,465.4
+Suisse,Hommes,2002,C00-14,Cavité buccale et pharynx,660,18.5,17,15.3,18.8
+Suisse,Hommes,2002,C15,Œsophage,336,9.4,8.4,7.3,9.7
+Suisse,Hommes,2002,C16,Estomac,507,14.2,12.2,10.8,13.8
+Suisse,Hommes,2002,C17,Intestin grêle,67,1.9,1.6,1.1,2.2
+Suisse,Hommes,2002,C18-20,Côlon et Rectum,2173,61,52.7,49.7,55.8
+Suisse,Hommes,2002,C21,Anus et Canal anal,47,1.3,1.1,0.7,1.7
+Suisse,Hommes,2002,C22,Foie,478,13.4,11.9,10.5,13.4
+Suisse,Hommes,2002,C23-24,Vésicule et voies biliaires extra-hépat.,115,3.2,2.7,2.1,3.5
+Suisse,Hommes,2002,C25,Pancréas,473,13.3,11.5,10.1,13
+Suisse,Hommes,2002,C32,Larynx,241,6.8,6.2,5.2,7.4
+Suisse,Hommes,2002,C33-34,"Poumon, Bronches, Trachée",2397,67.3,58.9,55.7,62.2
+Suisse,Hommes,2002,"C38.4,C45.0",Plèvre,123,3.5,3.2,2.4,4.1
+Suisse,Hommes,2002,C40-41,"Os, Articulations, Cartilage",56,1.6,1.5,1,2.2
+Suisse,Hommes,2002,C43,Mélanome,887,24.9,22.4,20.4,24.4
+Suisse,Hommes,2002,"C47,C49",Tissus mous,119,3.4,3,2.3,3.8
+Suisse,Hommes,2002,C50,Sein,38,1.1,0.9,0.6,1.5
+Suisse,Hommes,2002,C61,Prostate,5687,159.8,139.5,134.6,144.6
+Suisse,Hommes,2002,C62,Testicule,362,10.2,9.7,8.4,11.2
+Suisse,Hommes,2002,C64,Rein,539,15.1,13.4,11.9,15
+Suisse,Hommes,2002,C67,Vessie,740,20.8,17.7,16,19.5
+Suisse,Hommes,2002,"C65-66,C68",Autres organes urinaires,77,2.2,1.8,1.3,2.5
+Suisse,Hommes,2002,C69,Œil,38,1.1,1,0.6,1.5
+Suisse,Hommes,2002,C70-72,Cerveau et Système nerveux central,304,8.5,8,6.8,9.3
+Suisse,Hommes,2002,C73,Thyroïde,103,2.9,2.6,2,3.4
+Suisse,Hommes,2002,C81,Lymphome de Hodgkin,137,3.9,3.7,2.9,4.6
+Suisse,Hommes,2002,"C82-86,C96",Lymphome non hodgkinien,650,18.3,16.1,14.5,17.9
+Suisse,Hommes,2002,C90,Myélome multiple,227,6.4,5.5,4.5,6.5
+Suisse,Hommes,2002,C91-95,Leucémie,571,16.1,14.3,12.7,16.1
+Suisse,Hommes,2002,C91,Leucémie lymphoïde,340,9.5,8.7,7.5,10.2
+Suisse,Hommes,2002,C92-94,Leucémie myéloïde,222,6.2,5.4,4.4,6.4
+Suisse,Hommes,2002,Other_C-code,Autres localisations du cancer,633,17.8,15.4,13.8,17.2
+Suisse,Hommes,2002,"C00-43,C45-97",Tous les cancers (voir Méthode pour les critères d’inclusion),18788,527.8,463.9,454.9,473.1
+Suisse,Hommes,2003,C00-14,Cavité buccale et pharynx,705,19.7,18,16.2,19.8
+Suisse,Hommes,2003,C15,Œsophage,366,10.2,9,7.8,10.4
+Suisse,Hommes,2003,C16,Estomac,534,14.9,12.4,11,14
+Suisse,Hommes,2003,C17,Intestin grêle,95,2.6,2.3,1.7,3
+Suisse,Hommes,2003,C18-20,Côlon et Rectum,2172,60.5,52,49,55
+Suisse,Hommes,2003,C21,Anus et Canal anal,40,1.1,1,0.6,1.5
+Suisse,Hommes,2003,C22,Foie,451,12.6,11,9.7,12.4
+Suisse,Hommes,2003,C23-24,Vésicule et voies biliaires extra-hépat.,119,3.3,2.7,2.1,3.5
+Suisse,Hommes,2003,C25,Pancréas,466,13,10.9,9.6,12.3
+Suisse,Hommes,2003,C32,Larynx,260,7.2,6.5,5.5,7.7
+Suisse,Hommes,2003,C33-34,"Poumon, Bronches, Trachée",2456,68.4,59.3,56.2,62.6
+Suisse,Hommes,2003,"C38.4,C45.0",Plèvre,121,3.4,3,2.3,3.9
+Suisse,Hommes,2003,C40-41,"Os, Articulations, Cartilage",36,1,1,0.6,1.5
+Suisse,Hommes,2003,C43,Mélanome,953,26.6,23.7,21.6,25.8
+Suisse,Hommes,2003,"C47,C49",Tissus mous,154,4.3,3.8,3,4.7
+Suisse,Hommes,2003,C50,Sein,24,0.7,0.5,0.3,0.9
+Suisse,Hommes,2003,C61,Prostate,5642,157.2,136.2,131.4,141.2
+Suisse,Hommes,2003,C62,Testicule,383,10.7,10.1,8.8,11.6
+Suisse,Hommes,2003,C64,Rein,527,14.7,13,11.5,14.7
+Suisse,Hommes,2003,C67,Vessie,702,19.6,16.5,14.9,18.3
+Suisse,Hommes,2003,"C65-66,C68",Autres organes urinaires,63,1.8,1.5,1,2
+Suisse,Hommes,2003,C69,Œil,35,1,0.9,0.5,1.4
+Suisse,Hommes,2003,C70-72,Cerveau et Système nerveux central,305,8.5,7.9,6.7,9.2
+Suisse,Hommes,2003,C73,Thyroïde,102,2.8,2.6,2,3.4
+Suisse,Hommes,2003,C81,Lymphome de Hodgkin,126,3.5,3.4,2.6,4.4
+Suisse,Hommes,2003,"C82-86,C96",Lymphome non hodgkinien,646,18,15.8,14.2,17.5
+Suisse,Hommes,2003,C90,Myélome multiple,254,7.1,6.1,5.1,7.2
+Suisse,Hommes,2003,C91-95,Leucémie,537,15,13.4,11.9,15.1
+Suisse,Hommes,2003,C91,Leucémie lymphoïde,313,8.7,8,6.8,9.3
+Suisse,Hommes,2003,C92-94,Leucémie myéloïde,210,5.9,5.1,4.2,6.1
+Suisse,Hommes,2003,Other_C-code,Autres localisations du cancer,588,16.4,14.1,12.6,15.7
+Suisse,Hommes,2003,"C00-43,C45-97",Tous les cancers (voir Méthode pour les critères d’inclusion),18862,525.6,458.6,449.7,467.7
+Suisse,Hommes,2004,C00-14,Cavité buccale et pharynx,721,20,17.9,16.2,19.7
+Suisse,Hommes,2004,C15,Œsophage,373,10.3,9,7.8,10.3
+Suisse,Hommes,2004,C16,Estomac,478,13.2,11.1,9.8,12.6
+Suisse,Hommes,2004,C17,Intestin grêle,91,2.5,2.2,1.6,2.9
+Suisse,Hommes,2004,C18-20,Côlon et Rectum,2160,59.8,50.4,47.5,53.4
+Suisse,Hommes,2004,C21,Anus et Canal anal,40,1.1,1,0.6,1.5
+Suisse,Hommes,2004,C22,Foie,489,13.5,11.7,10.3,13.2
+Suisse,Hommes,2004,C23-24,Vésicule et voies biliaires extra-hépat.,138,3.8,3.1,2.4,3.9
+Suisse,Hommes,2004,C25,Pancréas,507,14,11.5,10.2,12.9
+Suisse,Hommes,2004,C32,Larynx,224,6.2,5.5,4.6,6.6
+Suisse,Hommes,2004,C33-34,"Poumon, Bronches, Trachée",2462,68.1,58.4,55.3,61.7
+Suisse,Hommes,2004,"C38.4,C45.0",Plèvre,131,3.6,3.1,2.4,3.9
+Suisse,Hommes,2004,C40-41,"Os, Articulations, Cartilage",57,1.6,1.6,1.1,2.2
+Suisse,Hommes,2004,C43,Mélanome,900,24.9,21.9,20,24
+Suisse,Hommes,2004,"C47,C49",Tissus mous,110,3.1,2.7,2.1,3.6
+Suisse,Hommes,2004,C50,Sein,27,0.8,0.7,0.4,1.1
+Suisse,Hommes,2004,C61,Prostate,6070,167.9,143.8,138.8,148.8
+Suisse,Hommes,2004,C62,Testicule,410,11.3,10.5,9.2,12
+Suisse,Hommes,2004,C64,Rein,463,12.8,11.1,9.8,12.6
+Suisse,Hommes,2004,C67,Vessie,793,21.9,18,16.3,19.8
+Suisse,Hommes,2004,"C65-66,C68",Autres organes urinaires,81,2.2,1.9,1.4,2.6
+Suisse,Hommes,2004,C69,Œil,53,1.5,1.3,0.9,1.9
+Suisse,Hommes,2004,C70-72,Cerveau et Système nerveux central,291,8,7.4,6.3,8.7
+Suisse,Hommes,2004,C73,Thyroïde,114,3.2,2.9,2.2,3.7
+Suisse,Hommes,2004,C81,Lymphome de Hodgkin,135,3.7,3.6,2.9,4.6
+Suisse,Hommes,2004,"C82-86,C96",Lymphome non hodgkinien,632,17.5,15,13.4,16.7
+Suisse,Hommes,2004,C90,Myélome multiple,263,7.3,6.2,5.2,7.3
+Suisse,Hommes,2004,C91-95,Leucémie,553,15.3,13.5,12,15.2
+Suisse,Hommes,2004,C91,Leucémie lymphoïde,297,8.2,7.3,6.2,8.6
+Suisse,Hommes,2004,C92-94,Leucémie myéloïde,246,6.8,5.9,4.9,7.1
+Suisse,Hommes,2004,Other_C-code,Autres localisations du cancer,580,16,13.6,12.1,15.2
+Suisse,Hommes,2004,"C00-43,C45-97",Tous les cancers (voir Méthode pour les critères d’inclusion),19347,535.2,460.7,451.8,469.6
+Suisse,Hommes,2005,C00-14,Cavité buccale et pharynx,765,21,18.6,16.9,20.5
+Suisse,Hommes,2005,C15,Œsophage,385,10.6,9.1,7.9,10.5
+Suisse,Hommes,2005,C16,Estomac,473,13,10.9,9.6,12.3
+Suisse,Hommes,2005,C17,Intestin grêle,86,2.4,2.1,1.5,2.8
+Suisse,Hommes,2005,C18-20,Côlon et Rectum,2193,60.2,50.1,47.3,53
+Suisse,Hommes,2005,C21,Anus et Canal anal,40,1.1,1,0.6,1.5
+Suisse,Hommes,2005,C22,Foie,466,12.8,10.9,9.7,12.3
+Suisse,Hommes,2005,C23-24,Vésicule et voies biliaires extra-hépat.,157,4.3,3.5,2.8,4.3
+Suisse,Hommes,2005,C25,Pancréas,473,13,10.7,9.4,12
+Suisse,Hommes,2005,C32,Larynx,203,5.6,4.9,4,5.9
+Suisse,Hommes,2005,C33-34,"Poumon, Bronches, Trachée",2525,69.3,58.6,55.6,61.8
+Suisse,Hommes,2005,"C38.4,C45.0",Plèvre,146,4,3.3,2.6,4.2
+Suisse,Hommes,2005,C40-41,"Os, Articulations, Cartilage",40,1.1,1.1,0.7,1.7
+Suisse,Hommes,2005,C43,Mélanome,974,26.8,23,21.1,25
+Suisse,Hommes,2005,"C47,C49",Tissus mous,102,2.8,2.5,1.9,3.2
+Suisse,Hommes,2005,C50,Sein,28,0.8,0.7,0.4,1.1
+Suisse,Hommes,2005,C61,Prostate,5860,161,135,130.3,139.8
+Suisse,Hommes,2005,C62,Testicule,387,10.6,10.1,8.7,11.6
+Suisse,Hommes,2005,C64,Rein,478,13.1,11.3,10,12.8
+Suisse,Hommes,2005,C67,Vessie,852,23.4,19,17.3,20.8
+Suisse,Hommes,2005,"C65-66,C68",Autres organes urinaires,76,2.1,1.8,1.3,2.4
+Suisse,Hommes,2005,C69,Œil,51,1.4,1.4,0.9,2
+Suisse,Hommes,2005,C70-72,Cerveau et Système nerveux central,291,8,7.2,6.1,8.4
+Suisse,Hommes,2005,C73,Thyroïde,152,4.2,3.7,3,4.6
+Suisse,Hommes,2005,C81,Lymphome de Hodgkin,125,3.4,3.3,2.6,4.1
+Suisse,Hommes,2005,"C82-86,C96",Lymphome non hodgkinien,619,17,14.7,13.2,16.4
+Suisse,Hommes,2005,C90,Myélome multiple,245,6.7,5.6,4.6,6.6
+Suisse,Hommes,2005,C91-95,Leucémie,625,17.2,15.4,13.8,17.2
+Suisse,Hommes,2005,C91,Leucémie lymphoïde,363,10,9.1,7.8,10.5
+Suisse,Hommes,2005,C92-94,Leucémie myéloïde,247,6.8,6,5,7.1
+Suisse,Hommes,2005,Other_C-code,Autres localisations du cancer,576,15.8,13.2,11.8,14.8
+Suisse,Hommes,2005,"C00-43,C45-97",Tous les cancers (voir Méthode pour les critères d’inclusion),19393,532.7,452.5,443.8,461.2
+Suisse,Hommes,2006,C00-14,Cavité buccale et pharynx,722,19.7,17.1,15.5,18.8
+Suisse,Hommes,2006,C15,Œsophage,356,9.7,8,7,9.2
+Suisse,Hommes,2006,C16,Estomac,482,13.2,10.9,9.6,12.3
+Suisse,Hommes,2006,C17,Intestin grêle,84,2.3,1.9,1.4,2.5
+Suisse,Hommes,2006,C18-20,Côlon et Rectum,2269,61.9,50.5,47.7,53.4
+Suisse,Hommes,2006,C21,Anus et Canal anal,54,1.5,1.2,0.8,1.8
+Suisse,Hommes,2006,C22,Foie,496,13.5,11.3,10,12.6
+Suisse,Hommes,2006,C23-24,Vésicule et voies biliaires extra-hépat.,145,3.9,3.2,2.5,4
+Suisse,Hommes,2006,C25,Pancréas,511,13.9,11.3,10,12.7
+Suisse,Hommes,2006,C32,Larynx,276,7.5,6.4,5.4,7.5
+Suisse,Hommes,2006,C33-34,"Poumon, Bronches, Trachée",2417,65.9,55,52.1,58
+Suisse,Hommes,2006,"C38.4,C45.0",Plèvre,152,4.1,3.4,2.7,4.3
+Suisse,Hommes,2006,C40-41,"Os, Articulations, Cartilage",37,1,1,0.6,1.5
+Suisse,Hommes,2006,C43,Mélanome,960,26.2,22.3,20.4,24.2
+Suisse,Hommes,2006,"C47,C49",Tissus mous,119,3.3,2.9,2.2,3.6
+Suisse,Hommes,2006,C50,Sein,41,1.1,0.9,0.6,1.4
+Suisse,Hommes,2006,C61,Prostate,5910,161.2,133.4,128.8,138.1
+Suisse,Hommes,2006,C62,Testicule,426,11.6,11.1,9.7,12.7
+Suisse,Hommes,2006,C64,Rein,511,13.9,11.6,10.2,13
+Suisse,Hommes,2006,C67,Vessie,838,22.9,18.3,16.7,20.1
+Suisse,Hommes,2006,"C65-66,C68",Autres organes urinaires,66,1.8,1.5,1.1,2.1
+Suisse,Hommes,2006,C69,Œil,44,1.2,1,0.7,1.6
+Suisse,Hommes,2006,C70-72,Cerveau et Système nerveux central,290,7.9,7.3,6.2,8.6
+Suisse,Hommes,2006,C73,Thyroïde,160,4.4,3.8,3.1,4.8
+Suisse,Hommes,2006,C81,Lymphome de Hodgkin,113,3.1,3,2.3,3.8
+Suisse,Hommes,2006,"C82-86,C96",Lymphome non hodgkinien,749,20.4,17.2,15.5,18.9
+Suisse,Hommes,2006,C90,Myélome multiple,283,7.7,6.3,5.3,7.4
+Suisse,Hommes,2006,C91-95,Leucémie,588,16,13.8,12.3,15.4
+Suisse,Hommes,2006,C91,Leucémie lymphoïde,343,9.4,8,6.9,9.3
+Suisse,Hommes,2006,C92-94,Leucémie myéloïde,234,6.4,5.5,4.6,6.6
+Suisse,Hommes,2006,Other_C-code,Autres localisations du cancer,548,15,12.5,11.1,14
+Suisse,Hommes,2006,"C00-43,C45-97",Tous les cancers (voir Méthode pour les critères d’inclusion),19648,535.9,447.9,439.5,456.5
+Suisse,Hommes,2007,C00-14,Cavité buccale et pharynx,777,21,18,16.3,19.7
+Suisse,Hommes,2007,C15,Œsophage,365,9.8,8.1,7,9.2
+Suisse,Hommes,2007,C16,Estomac,452,12.2,10,8.8,11.3
+Suisse,Hommes,2007,C17,Intestin grêle,93,2.5,2.1,1.6,2.8
+Suisse,Hommes,2007,C18-20,Côlon et Rectum,2444,66,53.4,50.6,56.3
+Suisse,Hommes,2007,C21,Anus et Canal anal,48,1.3,1.1,0.7,1.6
+Suisse,Hommes,2007,C22,Foie,544,14.7,12.2,11,13.6
+Suisse,Hommes,2007,C23-24,Vésicule et voies biliaires extra-hépat.,136,3.7,2.9,2.3,3.7
+Suisse,Hommes,2007,C25,Pancréas,518,14,11.2,9.9,12.5
+Suisse,Hommes,2007,C32,Larynx,252,6.8,5.8,4.9,6.8
+Suisse,Hommes,2007,C33-34,"Poumon, Bronches, Trachée",2586,69.8,57.4,54.4,60.5
+Suisse,Hommes,2007,"C38.4,C45.0",Plèvre,134,3.6,2.8,2.2,3.6
+Suisse,Hommes,2007,C40-41,"Os, Articulations, Cartilage",46,1.2,1.2,0.8,1.8
+Suisse,Hommes,2007,C43,Mélanome,1058,28.6,24.1,22.2,26.2
+Suisse,Hommes,2007,"C47,C49",Tissus mous,116,3.1,2.7,2,3.4
+Suisse,Hommes,2007,C50,Sein,33,0.9,0.7,0.4,1.2
+Suisse,Hommes,2007,C61,Prostate,6303,170.2,139.6,134.9,144.4
+Suisse,Hommes,2007,C62,Testicule,409,11,10.6,9.3,12.1
+Suisse,Hommes,2007,C64,Rein,573,15.5,12.9,11.5,14.5
+Suisse,Hommes,2007,C67,Vessie,861,23.3,18.4,16.8,20.1
+Suisse,Hommes,2007,"C65-66,C68",Autres organes urinaires,83,2.3,1.7,1.3,2.3
+Suisse,Hommes,2007,C69,Œil,46,1.3,1.1,0.7,1.7
+Suisse,Hommes,2007,C70-72,Cerveau et Système nerveux central,362,9.8,8.7,7.5,10.1
+Suisse,Hommes,2007,C73,Thyroïde,166,4.5,4,3.3,4.9
+Suisse,Hommes,2007,C81,Lymphome de Hodgkin,151,4.1,3.8,3,4.7
+Suisse,Hommes,2007,"C82-86,C96",Lymphome non hodgkinien,784,21.2,17.8,16.1,19.6
+Suisse,Hommes,2007,C90,Myélome multiple,289,7.8,6.3,5.3,7.4
+Suisse,Hommes,2007,C91-95,Leucémie,578,15.6,13.3,11.9,14.9
+Suisse,Hommes,2007,C91,Leucémie lymphoïde,338,9.1,7.9,6.8,9.2
+Suisse,Hommes,2007,C92-94,Leucémie myéloïde,226,6.1,5.1,4.2,6.1
+Suisse,Hommes,2007,Other_C-code,Autres localisations du cancer,654,17.6,14.4,12.9,16
+Suisse,Hommes,2007,"C00-43,C45-97",Tous les cancers (voir Méthode pour les critères d’inclusion),20862,563.4,466.3,457.8,475
+Suisse,Hommes,2008,C00-14,Cavité buccale et pharynx,776,20.7,17.7,16.1,19.5
+Suisse,Hommes,2008,C15,Œsophage,388,10.3,8.4,7.3,9.6
+Suisse,Hommes,2008,C16,Estomac,504,13.4,10.9,9.6,12.3
+Suisse,Hommes,2008,C17,Intestin grêle,89,2.4,2,1.4,2.6
+Suisse,Hommes,2008,C18-20,Côlon et Rectum,2366,63,50.4,47.7,53.2
+Suisse,Hommes,2008,C21,Anus et Canal anal,51,1.3,1.1,0.7,1.6
+Suisse,Hommes,2008,C22,Foie,532,14.1,11.7,10.5,13.1
+Suisse,Hommes,2008,C23-24,Vésicule et voies biliaires extra-hépat.,135,3.6,2.8,2.2,3.6
+Suisse,Hommes,2008,C25,Pancréas,523,13.9,11.1,9.8,12.4
+Suisse,Hommes,2008,C32,Larynx,254,6.8,5.7,4.8,6.7
+Suisse,Hommes,2008,C33-34,"Poumon, Bronches, Trachée",2526,67.2,54.2,51.4,57.1
+Suisse,Hommes,2008,"C38.4,C45.0",Plèvre,188,5,4,3.2,4.9
+Suisse,Hommes,2008,C40-41,"Os, Articulations, Cartilage",52,1.4,1.2,0.8,1.8
+Suisse,Hommes,2008,C43,Mélanome,1237,32.9,27.3,25.3,29.5
+Suisse,Hommes,2008,"C47,C49",Tissus mous,161,4.3,3.6,2.9,4.5
+Suisse,Hommes,2008,C50,Sein,43,1.1,0.9,0.6,1.3
+Suisse,Hommes,2008,C61,Prostate,6489,172.7,139.7,135.1,144.4
+Suisse,Hommes,2008,C62,Testicule,402,10.7,10.3,9,11.7
+Suisse,Hommes,2008,C64,Rein,566,15.1,12.5,11.1,13.9
+Suisse,Hommes,2008,C67,Vessie,830,22.1,17.2,15.7,18.9
+Suisse,Hommes,2008,"C65-66,C68",Autres organes urinaires,81,2.2,1.6,1.2,2.2
+Suisse,Hommes,2008,C69,Œil,47,1.2,1.1,0.7,1.6
+Suisse,Hommes,2008,C70-72,Cerveau et Système nerveux central,334,8.9,7.8,6.7,9
+Suisse,Hommes,2008,C73,Thyroïde,109,2.9,2.6,2,3.3
+Suisse,Hommes,2008,C81,Lymphome de Hodgkin,164,4.4,4.2,3.3,5.2
+Suisse,Hommes,2008,"C82-86,C96",Lymphome non hodgkinien,745,19.8,16.4,14.8,18.1
+Suisse,Hommes,2008,C90,Myélome multiple,241,6.4,5.1,4.3,6.1
+Suisse,Hommes,2008,C91-95,Leucémie,514,13.7,11.6,10.2,13
+Suisse,Hommes,2008,C91,Leucémie lymphoïde,284,7.6,6.4,5.4,7.6
+Suisse,Hommes,2008,C92-94,Leucémie myéloïde,220,5.9,4.9,4.1,5.9
+Suisse,Hommes,2008,Other_C-code,Autres localisations du cancer,609,16.2,13,11.6,14.4
+Suisse,Hommes,2008,"C00-43,C45-97",Tous les cancers (voir Méthode pour les critères d’inclusion),20956,557.8,456.1,447.7,464.5
+Suisse,Hommes,2009,C00-14,Cavité buccale et pharynx,748,19.6,16.7,15.2,18.4
+Suisse,Hommes,2009,C15,Œsophage,373,9.8,7.8,6.8,8.9
+Suisse,Hommes,2009,C16,Estomac,536,14.1,11.2,10,12.6
+Suisse,Hommes,2009,C17,Intestin grêle,67,1.8,1.4,1,1.9
+Suisse,Hommes,2009,C18-20,Côlon et Rectum,2286,60,47.5,44.9,50.2
+Suisse,Hommes,2009,C21,Anus et Canal anal,65,1.7,1.5,1,2.1
+Suisse,Hommes,2009,C22,Foie,483,12.7,10.4,9.2,11.7
+Suisse,Hommes,2009,C23-24,Vésicule et voies biliaires extra-hépat.,185,4.9,3.7,3,4.5
+Suisse,Hommes,2009,C25,Pancréas,607,15.9,12.6,11.3,14
+Suisse,Hommes,2009,C32,Larynx,203,5.3,4.3,3.6,5.1
+Suisse,Hommes,2009,C33-34,"Poumon, Bronches, Trachée",2468,64.8,51.7,49,54.6
+Suisse,Hommes,2009,"C38.4,C45.0",Plèvre,142,3.7,2.8,2.2,3.6
+Suisse,Hommes,2009,C40-41,"Os, Articulations, Cartilage",56,1.5,1.3,0.9,1.9
+Suisse,Hommes,2009,C43,Mélanome,1184,31.1,25.2,23.3,27.3
+Suisse,Hommes,2009,"C47,C49",Tissus mous,129,3.4,2.8,2.2,3.6
+Suisse,Hommes,2009,C50,Sein,28,0.7,0.6,0.3,0.9
+Suisse,Hommes,2009,C61,Prostate,6573,172.6,138.8,134.3,143.5
+Suisse,Hommes,2009,C62,Testicule,417,10.9,10.5,9.2,11.9
+Suisse,Hommes,2009,C64,Rein,563,14.8,12.1,10.8,13.5
+Suisse,Hommes,2009,C67,Vessie,811,21.3,16.4,15,18
+Suisse,Hommes,2009,"C65-66,C68",Autres organes urinaires,60,1.6,1.2,0.8,1.8
+Suisse,Hommes,2009,C69,Œil,34,0.9,0.7,0.4,1.1
+Suisse,Hommes,2009,C70-72,Cerveau et Système nerveux central,341,8.9,7.9,6.8,9.2
+Suisse,Hommes,2009,C73,Thyroïde,164,4.3,3.8,3.1,4.7
+Suisse,Hommes,2009,C81,Lymphome de Hodgkin,132,3.5,3.3,2.6,4.1
+Suisse,Hommes,2009,"C82-86,C96",Lymphome non hodgkinien,757,19.9,16.3,14.8,18
+Suisse,Hommes,2009,C90,Myélome multiple,386,10.1,8,6.9,9.2
+Suisse,Hommes,2009,C91-95,Leucémie,619,16.3,13.4,12,15
+Suisse,Hommes,2009,C91,Leucémie lymphoïde,355,9.3,7.8,6.7,9
+Suisse,Hommes,2009,C92-94,Leucémie myéloïde,245,6.4,5.2,4.4,6.2
+Suisse,Hommes,2009,Other_C-code,Autres localisations du cancer,602,15.8,12.5,11.2,13.9
+Suisse,Hommes,2009,"C00-43,C45-97",Tous les cancers (voir Méthode pour les critères d’inclusion),21019,551.9,446.6,438.4,454.9
+Suisse,Hommes,2010,C00-14,Cavité buccale et pharynx,795,20.7,17.3,15.8,18.8
+Suisse,Hommes,2010,C15,Œsophage,437,11.3,9.2,8.1,10.4
+Suisse,Hommes,2010,C16,Estomac,543,14.1,10.9,9.7,12.1
+Suisse,Hommes,2010,C17,Intestin grêle,127,3.3,2.7,2.1,3.3
+Suisse,Hommes,2010,C18-20,Côlon et Rectum,2381,61.8,48.4,45.9,51
+Suisse,Hommes,2010,C21,Anus et Canal anal,67,1.7,1.4,1,1.9
+Suisse,Hommes,2010,C22,Foie,589,15.3,12.3,11.1,13.6
+Suisse,Hommes,2010,C23-24,Vésicule et voies biliaires extra-hépat.,159,4.1,3.2,2.6,3.9
+Suisse,Hommes,2010,C25,Pancréas,586,15.2,11.9,10.7,13.3
+Suisse,Hommes,2010,C32,Larynx,213,5.5,4.6,3.8,5.4
+Suisse,Hommes,2010,C33-34,"Poumon, Bronches, Trachée",2535,65.8,51.7,49.1,54.3
+Suisse,Hommes,2010,"C38.4,C45.0",Plèvre,136,3.5,2.7,2.1,3.4
+Suisse,Hommes,2010,C40-41,"Os, Articulations, Cartilage",47,1.2,1.2,0.8,1.7
+Suisse,Hommes,2010,C43,Mélanome,1286,33.4,27.2,25.4,29.2
+Suisse,Hommes,2010,"C47,C49",Tissus mous,168,4.4,3.7,3,4.5
+Suisse,Hommes,2010,C50,Sein,56,1.4,1.1,0.8,1.6
+Suisse,Hommes,2010,C61,Prostate,6201,161,127.8,123.7,132
+Suisse,Hommes,2010,C62,Testicule,389,10.1,9.7,8.5,10.9
+Suisse,Hommes,2010,C64,Rein,608,15.8,12.8,11.6,14.2
+Suisse,Hommes,2010,C67,Vessie,884,23,17.3,15.9,18.9
+Suisse,Hommes,2010,"C65-66,C68",Autres organes urinaires,86,2.2,1.7,1.3,2.3
+Suisse,Hommes,2010,C69,Œil,28,0.7,0.7,0.4,1.1
+Suisse,Hommes,2010,C70-72,Cerveau et Système nerveux central,388,10.1,8.9,7.7,10.1
+Suisse,Hommes,2010,C73,Thyroïde,205,5.3,4.5,3.8,5.4
+Suisse,Hommes,2010,C81,Lymphome de Hodgkin,140,3.6,3.5,2.8,4.4
+Suisse,Hommes,2010,"C82-86,C96",Lymphome non hodgkinien,697,18.1,14.6,13.3,16.1
+Suisse,Hommes,2010,C90,Myélome multiple,355,9.2,7.3,6.3,8.3
+Suisse,Hommes,2010,C91-95,Leucémie,525,13.6,11.1,9.9,12.5
+Suisse,Hommes,2010,C91,Leucémie lymphoïde,292,7.6,6.3,5.4,7.3
+Suisse,Hommes,2010,C92-94,Leucémie myéloïde,224,5.8,4.7,3.9,5.5
+Suisse,Hommes,2010,Other_C-code,Autres localisations du cancer,628,16.3,12.9,11.6,14.3
+Suisse,Hommes,2010,"C00-43,C45-97",Tous les cancers (voir Méthode pour les critères d’inclusion),21258,552,442.3,434.7,450
+Suisse,Hommes,2011,C00-14,Cavité buccale et pharynx,777,19.9,16.7,15.3,18.2
+Suisse,Hommes,2011,C15,Œsophage,401,10.3,8.2,7.2,9.2
+Suisse,Hommes,2011,C16,Estomac,549,14.1,11,9.9,12.2
+Suisse,Hommes,2011,C17,Intestin grêle,109,2.8,2.2,1.7,2.8
+Suisse,Hommes,2011,C18-20,Côlon et Rectum,2347,60.2,46.6,44.3,49.1
+Suisse,Hommes,2011,C21,Anus et Canal anal,55,1.4,1.1,0.8,1.5
+Suisse,Hommes,2011,C22,Foie,544,13.9,11,9.9,12.1
+Suisse,Hommes,2011,C23-24,Vésicule et voies biliaires extra-hépat.,156,4,3,2.5,3.7
+Suisse,Hommes,2011,C25,Pancréas,611,15.7,12,10.9,13.3
+Suisse,Hommes,2011,C32,Larynx,260,6.7,5.4,4.6,6.3
+Suisse,Hommes,2011,C33-34,"Poumon, Bronches, Trachée",2534,65,51.3,48.8,53.9
+Suisse,Hommes,2011,"C38.4,C45.0",Plèvre,150,3.9,2.9,2.3,3.6
+Suisse,Hommes,2011,C40-41,"Os, Articulations, Cartilage",69,1.8,1.7,1.2,2.3
+Suisse,Hommes,2011,C43,Mélanome,1344,34.5,27.9,26,29.8
+Suisse,Hommes,2011,"C47,C49",Tissus mous,175,4.5,3.7,3,4.4
+Suisse,Hommes,2011,C50,Sein,29,0.7,0.6,0.4,0.9
+Suisse,Hommes,2011,C61,Prostate,6545,167.8,132.6,128.6,136.7
+Suisse,Hommes,2011,C62,Testicule,422,10.8,10.4,9.2,11.7
+Suisse,Hommes,2011,C64,Rein,624,16,12.9,11.7,14.3
+Suisse,Hommes,2011,C67,Vessie,836,21.4,15.9,14.6,17.4
+Suisse,Hommes,2011,"C65-66,C68",Autres organes urinaires,104,2.7,2,1.6,2.6
+Suisse,Hommes,2011,C69,Œil,28,0.7,0.7,0.4,1.1
+Suisse,Hommes,2011,C70-72,Cerveau et Système nerveux central,381,9.8,8.3,7.3,9.4
+Suisse,Hommes,2011,C73,Thyroïde,166,4.2,3.7,3,4.5
+Suisse,Hommes,2011,C81,Lymphome de Hodgkin,163,4.2,3.9,3.2,4.7
+Suisse,Hommes,2011,"C82-86,C96",Lymphome non hodgkinien,755,19.4,15.6,14.2,17
+Suisse,Hommes,2011,C90,Myélome multiple,250,6.4,5,4.3,5.8
+Suisse,Hommes,2011,C91-95,Leucémie,569,14.6,12.4,11.2,13.8
+Suisse,Hommes,2011,C91,Leucémie lymphoïde,298,7.6,6.8,5.8,7.8
+Suisse,Hommes,2011,C92-94,Leucémie myéloïde,262,6.7,5.5,4.7,6.4
+Suisse,Hommes,2011,Other_C-code,Autres localisations du cancer,632,16.2,12.6,11.4,13.9
+Suisse,Hommes,2011,"C00-43,C45-97",Tous les cancers (voir Méthode pour les critères d’inclusion),21584,553.5,441.4,434.1,448.9
+Suisse,Hommes,2012,C00-14,Cavité buccale et pharynx,791,20.1,16.6,15.1,18.1
+Suisse,Hommes,2012,C15,Œsophage,470,11.9,9.5,8.4,10.7
+Suisse,Hommes,2012,C16,Estomac,513,13,10.1,9,11.3
+Suisse,Hommes,2012,C17,Intestin grêle,116,2.9,2.4,1.8,3
+Suisse,Hommes,2012,C18-20,Côlon et Rectum,2357,59.7,45.7,43.3,48.1
+Suisse,Hommes,2012,C21,Anus et Canal anal,62,1.6,1.3,0.9,1.7
+Suisse,Hommes,2012,C22,Foie,670,17,13.3,12.1,14.6
+Suisse,Hommes,2012,C23-24,Vésicule et voies biliaires extra-hépat.,135,3.4,2.5,2,3.1
+Suisse,Hommes,2012,C25,Pancréas,666,16.9,13,11.8,14.3
+Suisse,Hommes,2012,C32,Larynx,246,6.2,5,4.2,5.8
+Suisse,Hommes,2012,C33-34,"Poumon, Bronches, Trachée",2563,65,49.9,47.5,52.5
+Suisse,Hommes,2012,"C38.4,C45.0",Plèvre,164,4.2,3.1,2.5,3.9
+Suisse,Hommes,2012,C40-41,"Os, Articulations, Cartilage",44,1.1,1.1,0.7,1.6
+Suisse,Hommes,2012,C43,Mélanome,1441,36.5,29,27.1,31
+Suisse,Hommes,2012,"C47,C49",Tissus mous,159,4,3.4,2.7,4.1
+Suisse,Hommes,2012,C50,Sein,62,1.6,1.2,0.9,1.7
+Suisse,Hommes,2012,C61,Prostate,6065,153.7,119.6,115.7,123.6
+Suisse,Hommes,2012,C62,Testicule,426,10.8,10.5,9.2,11.8
+Suisse,Hommes,2012,C64,Rein,661,16.7,13.2,12,14.6
+Suisse,Hommes,2012,C67,Vessie,914,23.2,17,15.6,18.5
+Suisse,Hommes,2012,"C65-66,C68",Autres organes urinaires,98,2.5,1.8,1.4,2.4
+Suisse,Hommes,2012,C69,Œil,33,0.8,0.7,0.4,1.1
+Suisse,Hommes,2012,C70-72,Cerveau et Système nerveux central,327,8.3,7.1,6.1,8.2
+Suisse,Hommes,2012,C73,Thyroïde,199,5,4.3,3.6,5.1
+Suisse,Hommes,2012,C81,Lymphome de Hodgkin,138,3.5,3.2,2.6,4
+Suisse,Hommes,2012,"C82-86,C96",Lymphome non hodgkinien,783,19.8,15.5,14.2,17
+Suisse,Hommes,2012,C90,Myélome multiple,291,7.4,5.7,4.9,6.6
+Suisse,Hommes,2012,C91-95,Leucémie,556,14.1,11.9,10.7,13.3
+Suisse,Hommes,2012,C91,Leucémie lymphoïde,306,7.8,6.8,5.8,7.9
+Suisse,Hommes,2012,C92-94,Leucémie myéloïde,240,6.1,4.9,4.2,5.8
+Suisse,Hommes,2012,Other_C-code,Autres localisations du cancer,611,15.5,11.7,10.5,13
+Suisse,Hommes,2012,"C00-43,C45-97",Tous les cancers (voir Méthode pour les critères d’inclusion),21560,546.5,429.4,422,436.9
+Suisse,Hommes,2013,C00-14,Cavité buccale et pharynx,738,18.5,15.1,13.9,16.5
+Suisse,Hommes,2013,C15,Œsophage,439,11,8.3,7.4,9.3
+Suisse,Hommes,2013,C16,Estomac,625,15.6,11.8,10.7,13
+Suisse,Hommes,2013,C17,Intestin grêle,121,3,2.4,1.9,3
+Suisse,Hommes,2013,C18-20,Côlon et Rectum,2465,61.7,46.8,44.6,49.1
+Suisse,Hommes,2013,C21,Anus et Canal anal,54,1.4,1.1,0.8,1.5
+Suisse,Hommes,2013,C22,Foie,588,14.7,11.4,10.4,12.5
+Suisse,Hommes,2013,C23-24,Vésicule et voies biliaires extra-hépat.,153,3.8,2.7,2.2,3.3
+Suisse,Hommes,2013,C25,Pancréas,630,15.8,11.7,10.7,12.9
+Suisse,Hommes,2013,C32,Larynx,225,5.6,4.4,3.8,5.2
+Suisse,Hommes,2013,C33-34,"Poumon, Bronches, Trachée",2632,65.9,49.9,47.7,52.3
+Suisse,Hommes,2013,"C38.4,C45.0",Plèvre,150,3.8,2.8,2.3,3.4
+Suisse,Hommes,2013,C40-41,"Os, Articulations, Cartilage",41,1,1,0.7,1.4
+Suisse,Hommes,2013,C43,Mélanome,1362,34.1,26.8,25.1,28.6
+Suisse,Hommes,2013,"C47,C49",Tissus mous,182,4.6,3.8,3.2,4.6
+Suisse,Hommes,2013,C50,Sein,53,1.3,1.1,0.7,1.4
+Suisse,Hommes,2013,C61,Prostate,5901,147.7,113.1,109.6,116.6
+Suisse,Hommes,2013,C62,Testicule,506,12.7,12.3,11,13.6
+Suisse,Hommes,2013,C64,Rein,605,15.2,11.8,10.7,13
+Suisse,Hommes,2013,C67,Vessie,932,23.3,17,15.7,18.3
+Suisse,Hommes,2013,"C65-66,C68",Autres organes urinaires,118,3,2.2,1.8,2.7
+Suisse,Hommes,2013,C69,Œil,28,0.7,0.6,0.3,0.9
+Suisse,Hommes,2013,C70-72,Cerveau et Système nerveux central,397,9.9,8.5,7.5,9.6
+Suisse,Hommes,2013,C73,Thyroïde,249,6.2,5.4,4.6,6.2
+Suisse,Hommes,2013,C81,Lymphome de Hodgkin,165,4.1,4,3.3,4.8
+Suisse,Hommes,2013,"C82-86,C96",Lymphome non hodgkinien,821,20.6,16.3,15,17.7
+Suisse,Hommes,2013,C90,Myélome multiple,316,7.9,6.1,5.3,6.9
+Suisse,Hommes,2013,C91-95,Leucémie,599,15,12.3,11.1,13.5
+Suisse,Hommes,2013,C91,Leucémie lymphoïde,319,8,6.7,5.8,7.7
+Suisse,Hommes,2013,C92-94,Leucémie myéloïde,273,6.8,5.4,4.7,6.2
+Suisse,Hommes,2013,Other_C-code,Autres localisations du cancer,618,15.5,11.6,10.5,12.8
+Suisse,Hommes,2013,"C00-43,C45-97",Tous les cancers (voir Méthode pour les critères d’inclusion),21712,543.4,422.3,415.6,429.1
+Suisse,Hommes,2014,C00-14,Cavité buccale et pharynx,766,18.9,15.1,14,16.3
+Suisse,Hommes,2014,C15,Œsophage,485,12,9.1,8.2,10
+Suisse,Hommes,2014,C16,Estomac,549,13.6,10.2,9.3,11.2
+Suisse,Hommes,2014,C17,Intestin grêle,156,3.9,3,2.5,3.6
+Suisse,Hommes,2014,C18-20,Côlon et Rectum,2481,61.3,45.8,43.9,47.8
+Suisse,Hommes,2014,C21,Anus et Canal anal,50,1.2,1,0.7,1.3
+Suisse,Hommes,2014,C22,Foie,581,14.3,10.9,10,11.9
+Suisse,Hommes,2014,C23-24,Vésicule et voies biliaires extra-hépat.,151,3.7,2.7,2.3,3.3
+Suisse,Hommes,2014,C25,Pancréas,696,17.2,12.7,11.7,13.8
+Suisse,Hommes,2014,C32,Larynx,211,5.2,4,3.5,4.7
+Suisse,Hommes,2014,C33-34,"Poumon, Bronches, Trachée",2545,62.9,47.3,45.3,49.4
+Suisse,Hommes,2014,"C38.4,C45.0",Plèvre,180,4.4,3.1,2.6,3.7
+Suisse,Hommes,2014,C40-41,"Os, Articulations, Cartilage",47,1.2,1.1,0.8,1.5
+Suisse,Hommes,2014,C43,Mélanome,1521,37.6,29.2,27.6,30.8
+Suisse,Hommes,2014,"C47,C49",Tissus mous,164,4.1,3.3,2.7,3.9
+Suisse,Hommes,2014,C50,Sein,54,1.3,1,0.7,1.4
+Suisse,Hommes,2014,C61,Prostate,5726,141.5,106.9,103.9,110
+Suisse,Hommes,2014,C62,Testicule,477,11.8,11.3,10.3,12.5
+Suisse,Hommes,2014,C64,Rein,685,16.9,13.1,12,14.2
+Suisse,Hommes,2014,C67,Vessie,920,22.7,16.3,15.2,17.5
+Suisse,Hommes,2014,"C65-66,C68",Autres organes urinaires,112,2.8,2,1.6,2.4
+Suisse,Hommes,2014,C69,Œil,28,0.7,0.5,0.3,0.8
+Suisse,Hommes,2014,C70-72,Cerveau et Système nerveux central,340,8.4,7,6.2,7.9
+Suisse,Hommes,2014,C73,Thyroïde,240,5.9,5.2,4.5,5.9
+Suisse,Hommes,2014,C81,Lymphome de Hodgkin,161,4,3.6,3,4.3
+Suisse,Hommes,2014,"C82-86,C96",Lymphome non hodgkinien,866,21.4,16.9,15.7,18.2
+Suisse,Hommes,2014,C90,Myélome multiple,321,7.9,5.9,5.2,6.6
+Suisse,Hommes,2014,C91-95,Leucémie,590,14.6,11.7,10.7,12.8
+Suisse,Hommes,2014,C91,Leucémie lymphoïde,320,7.9,6.4,5.7,7.2
+Suisse,Hommes,2014,C92-94,Leucémie myéloïde,259,6.4,5.1,4.4,5.8
+Suisse,Hommes,2014,Other_C-code,Autres localisations du cancer,664,16.4,12.2,11.2,13.3
+Suisse,Hommes,2014,"C00-43,C45-97",Tous les cancers (voir Méthode pour les critères d’inclusion),21765,537.7,412.3,406.3,418.3
+Suisse,Femmes,1990,C00-14,Cavité buccale et pharynx,211,6.1,5.2,4.2,6.3
+Suisse,Femmes,1990,C15,Œsophage,106,3.1,2.2,1.6,3
+Suisse,Femmes,1990,C16,Estomac,413,12,8,6.9,9.2
+Suisse,Femmes,1990,C17,Intestin grêle,44,1.3,1,0.6,1.5
+Suisse,Femmes,1990,C18-20,Côlon et Rectum,1545,45,32.2,29.9,34.7
+Suisse,Femmes,1990,C21,Anus et Canal anal,52,1.5,1.2,0.7,1.7
+Suisse,Femmes,1990,C22,Foie,106,3.1,2.4,1.8,3.2
+Suisse,Femmes,1990,C23-24,Vésicule et voies biliaires extra-hépat.,222,6.5,4.2,3.4,5.1
+Suisse,Femmes,1990,C25,Pancréas,436,12.7,8.6,7.4,9.8
+Suisse,Femmes,1990,C32,Larynx,39,1.1,1,0.6,1.6
+Suisse,Femmes,1990,C33-34,"Poumon, Bronches, Trachée",628,18.3,14.5,12.9,16.2
+Suisse,Femmes,1990,"C38.4,C45.0",Plèvre,6,0.2,0.1,0,0.4
+Suisse,Femmes,1990,C40-41,"Os, Articulations, Cartilage",46,1.3,1.2,0.7,1.9
+Suisse,Femmes,1990,C43,Mélanome,552,16.1,14.1,12.5,15.9
+Suisse,Femmes,1990,"C47,C49",Tissus mous,98,2.9,2.6,1.9,3.4
+Suisse,Femmes,1990,C50,Sein,3746,109.1,93.4,89.2,97.8
+Suisse,Femmes,1990,C53,Col de l'utérus,355,10.3,9.2,7.9,10.7
+Suisse,Femmes,1990,C54-55,Corps de l'utérus,816,23.8,19.5,17.6,21.6
+Suisse,Femmes,1990,C56,Ovaire,566,16.5,13.5,11.9,15.2
+Suisse,Femmes,1990,C64,Rein,228,6.6,5.4,4.4,6.5
+Suisse,Femmes,1990,C67,Vessie,265,7.7,5.3,4.4,6.4
+Suisse,Femmes,1990,"C65-66,C68",Autres organes urinaires,53,1.5,1.1,0.7,1.7
+Suisse,Femmes,1990,C69,Œil,38,1.1,1.1,0.7,1.8
+Suisse,Femmes,1990,C70-72,Cerveau et Système nerveux central,201,5.9,5.2,4.2,6.4
+Suisse,Femmes,1990,C73,Thyroïde,193,5.6,4.6,3.7,5.6
+Suisse,Femmes,1990,C81,Lymphome de Hodgkin,89,2.6,2.3,1.7,3.1
+Suisse,Femmes,1990,"C82-86,C96",Lymphome non hodgkinien,482,14,10.7,9.3,12.2
+Suisse,Femmes,1990,C90,Myélome multiple,163,4.8,3.4,2.7,4.2
+Suisse,Femmes,1990,C91-95,Leucémie,306,8.9,7,5.9,8.3
+Suisse,Femmes,1990,C91,Leucémie lymphoïde,153,4.4,3.4,2.7,4.4
+Suisse,Femmes,1990,C92-94,Leucémie myéloïde,137,4,3.3,2.5,4.2
+Suisse,Femmes,1990,Other_C-code,Autres localisations du cancer,656,19.1,12.8,11.4,14.3
+Suisse,Femmes,1990,"C00-43,C45-97",Tous les cancers (voir Méthode pour les critères d’inclusion),12660,368.6,293,285.6,300.5
+Suisse,Femmes,1991,C00-14,Cavité buccale et pharynx,219,6.3,5.5,4.5,6.6
+Suisse,Femmes,1991,C15,Œsophage,73,2.1,1.6,1.1,2.2
+Suisse,Femmes,1991,C16,Estomac,416,11.9,8.1,7,9.4
+Suisse,Femmes,1991,C17,Intestin grêle,53,1.5,1.1,0.7,1.7
+Suisse,Femmes,1991,C18-20,Côlon et Rectum,1507,43.3,30.9,28.7,33.3
+Suisse,Femmes,1991,C21,Anus et Canal anal,86,2.5,1.8,1.3,2.5
+Suisse,Femmes,1991,C22,Foie,97,2.8,1.9,1.4,2.5
+Suisse,Femmes,1991,C23-24,Vésicule et voies biliaires extra-hépat.,213,6.1,4.1,3.3,5
+Suisse,Femmes,1991,C25,Pancréas,454,13,8.7,7.6,10
+Suisse,Femmes,1991,C32,Larynx,37,1.1,0.8,0.5,1.3
+Suisse,Femmes,1991,C33-34,"Poumon, Bronches, Trachée",721,20.7,16.8,15.1,18.7
+Suisse,Femmes,1991,"C38.4,C45.0",Plèvre,15,0.4,0.3,0.1,0.7
+Suisse,Femmes,1991,C40-41,"Os, Articulations, Cartilage",39,1.1,1,0.6,1.6
+Suisse,Femmes,1991,C43,Mélanome,533,15.3,13.4,11.8,15.1
+Suisse,Femmes,1991,"C47,C49",Tissus mous,111,3.2,2.7,2,3.5
+Suisse,Femmes,1991,C50,Sein,3824,109.9,94.7,90.4,99
+Suisse,Femmes,1991,C53,Col de l'utérus,350,10.1,8.9,7.6,10.4
+Suisse,Femmes,1991,C54-55,Corps de l'utérus,792,22.8,19,17.1,21
+Suisse,Femmes,1991,C56,Ovaire,572,16.4,13.6,12,15.3
+Suisse,Femmes,1991,C64,Rein,243,7,5.6,4.6,6.7
+Suisse,Femmes,1991,C67,Vessie,295,8.5,5.9,5,7
+Suisse,Femmes,1991,"C65-66,C68",Autres organes urinaires,72,2.1,1.5,1,2.1
+Suisse,Femmes,1991,C69,Œil,45,1.3,1.2,0.7,1.7
+Suisse,Femmes,1991,C70-72,Cerveau et Système nerveux central,189,5.4,4.7,3.8,5.8
+Suisse,Femmes,1991,C73,Thyroïde,224,6.4,5.5,4.5,6.6
+Suisse,Femmes,1991,C81,Lymphome de Hodgkin,78,2.2,2.2,1.5,3
+Suisse,Femmes,1991,"C82-86,C96",Lymphome non hodgkinien,468,13.4,10.5,9.1,11.9
+Suisse,Femmes,1991,C90,Myélome multiple,180,5.2,3.8,3,4.7
+Suisse,Femmes,1991,C91-95,Leucémie,311,8.9,7,5.9,8.2
+Suisse,Femmes,1991,C91,Leucémie lymphoïde,141,4.1,3.5,2.7,4.4
+Suisse,Femmes,1991,C92-94,Leucémie myéloïde,160,4.6,3.3,2.6,4.1
+Suisse,Femmes,1991,Other_C-code,Autres localisations du cancer,672,19.3,13.7,12.2,15.3
+Suisse,Femmes,1991,"C00-43,C45-97",Tous les cancers (voir Méthode pour les critères d’inclusion),12888,370.3,296.5,289.1,304
+Suisse,Femmes,1992,C00-14,Cavité buccale et pharynx,203,5.8,5.2,4.2,6.3
+Suisse,Femmes,1992,C15,Œsophage,93,2.6,1.9,1.4,2.6
+Suisse,Femmes,1992,C16,Estomac,414,11.8,8,6.9,9.2
+Suisse,Femmes,1992,C17,Intestin grêle,51,1.5,0.9,0.6,1.4
+Suisse,Femmes,1992,C18-20,Côlon et Rectum,1700,48.3,34.3,31.9,36.8
+Suisse,Femmes,1992,C21,Anus et Canal anal,73,2.1,1.8,1.2,2.4
+Suisse,Femmes,1992,C22,Foie,98,2.8,2,1.4,2.6
+Suisse,Femmes,1992,C23-24,Vésicule et voies biliaires extra-hépat.,222,6.3,4.2,3.4,5
+Suisse,Femmes,1992,C25,Pancréas,419,11.9,8,6.9,9.3
+Suisse,Femmes,1992,C32,Larynx,22,0.6,0.6,0.3,1
+Suisse,Femmes,1992,C33-34,"Poumon, Bronches, Trachée",824,23.4,19.6,17.7,21.6
+Suisse,Femmes,1992,"C38.4,C45.0",Plèvre,15,0.4,0.3,0.1,0.7
+Suisse,Femmes,1992,C40-41,"Os, Articulations, Cartilage",44,1.3,1.2,0.7,1.9
+Suisse,Femmes,1992,C43,Mélanome,619,17.6,15.3,13.6,17.1
+Suisse,Femmes,1992,"C47,C49",Tissus mous,77,2.2,1.9,1.3,2.5
+Suisse,Femmes,1992,C50,Sein,3908,111.1,95.7,91.5,100.1
+Suisse,Femmes,1992,C53,Col de l'utérus,324,9.2,8.2,7,9.6
+Suisse,Femmes,1992,C54-55,Corps de l'utérus,740,21,17.3,15.6,19.2
+Suisse,Femmes,1992,C56,Ovaire,630,17.9,15,13.3,16.7
+Suisse,Femmes,1992,C64,Rein,206,5.9,4.7,3.8,5.7
+Suisse,Femmes,1992,C67,Vessie,291,8.3,5.5,4.6,6.5
+Suisse,Femmes,1992,"C65-66,C68",Autres organes urinaires,60,1.7,1.2,0.8,1.8
+Suisse,Femmes,1992,C69,Œil,30,0.9,0.8,0.4,1.3
+Suisse,Femmes,1992,C70-72,Cerveau et Système nerveux central,193,5.5,5,4.1,6.2
+Suisse,Femmes,1992,C73,Thyroïde,211,6,5.3,4.3,6.4
+Suisse,Femmes,1992,C81,Lymphome de Hodgkin,61,1.7,1.6,1.1,2.3
+Suisse,Femmes,1992,"C82-86,C96",Lymphome non hodgkinien,483,13.7,10.5,9.2,12
+Suisse,Femmes,1992,C90,Myélome multiple,174,4.9,3.6,2.9,4.5
+Suisse,Femmes,1992,C91-95,Leucémie,322,9.2,7.4,6.2,8.7
+Suisse,Femmes,1992,C91,Leucémie lymphoïde,160,4.6,3.8,3,4.8
+Suisse,Femmes,1992,C92-94,Leucémie myéloïde,151,4.3,3.4,2.6,4.2
+Suisse,Femmes,1992,Other_C-code,Autres localisations du cancer,694,19.7,13.8,12.3,15.4
+Suisse,Femmes,1992,"C00-43,C45-97",Tous les cancers (voir Méthode pour les critères d’inclusion),13199,375.2,300.8,293.4,308.3
+Suisse,Femmes,1993,C00-14,Cavité buccale et pharynx,254,7.1,6.1,5.1,7.3
+Suisse,Femmes,1993,C15,Œsophage,104,2.9,1.9,1.4,2.5
+Suisse,Femmes,1993,C16,Estomac,448,12.6,8.3,7.2,9.6
+Suisse,Femmes,1993,C17,Intestin grêle,53,1.5,1.2,0.8,1.8
+Suisse,Femmes,1993,C18-20,Côlon et Rectum,1628,45.9,32.8,30.5,35.2
+Suisse,Femmes,1993,C21,Anus et Canal anal,85,2.4,1.8,1.3,2.4
+Suisse,Femmes,1993,C22,Foie,125,3.5,2.5,1.9,3.2
+Suisse,Femmes,1993,C23-24,Vésicule et voies biliaires extra-hépat.,191,5.4,3.4,2.7,4.2
+Suisse,Femmes,1993,C25,Pancréas,383,10.8,7.3,6.3,8.5
+Suisse,Femmes,1993,C32,Larynx,21,0.6,0.5,0.3,1
+Suisse,Femmes,1993,C33-34,"Poumon, Bronches, Trachée",834,23.5,18.7,16.9,20.6
+Suisse,Femmes,1993,"C38.4,C45.0",Plèvre,25,0.7,0.5,0.2,0.8
+Suisse,Femmes,1993,C40-41,"Os, Articulations, Cartilage",32,0.9,0.9,0.5,1.4
+Suisse,Femmes,1993,C43,Mélanome,676,19,16.7,14.9,18.6
+Suisse,Femmes,1993,"C47,C49",Tissus mous,117,3.3,2.8,2.1,3.6
+Suisse,Femmes,1993,C50,Sein,3895,109.7,93.8,89.7,98.1
+Suisse,Femmes,1993,C53,Col de l'utérus,395,11.1,9.9,8.6,11.4
+Suisse,Femmes,1993,C54-55,Corps de l'utérus,759,21.4,17,15.3,18.8
+Suisse,Femmes,1993,C56,Ovaire,604,17,14.1,12.5,15.8
+Suisse,Femmes,1993,C64,Rein,264,7.4,5.8,4.8,7
+Suisse,Femmes,1993,C67,Vessie,245,6.9,4.9,4,5.9
+Suisse,Femmes,1993,"C65-66,C68",Autres organes urinaires,45,1.3,0.9,0.6,1.4
+Suisse,Femmes,1993,C69,Œil,22,0.6,0.4,0.2,0.8
+Suisse,Femmes,1993,C70-72,Cerveau et Système nerveux central,174,4.9,4.4,3.5,5.4
+Suisse,Femmes,1993,C73,Thyroïde,236,6.6,5.7,4.8,6.9
+Suisse,Femmes,1993,C81,Lymphome de Hodgkin,89,2.5,2.4,1.7,3.2
+Suisse,Femmes,1993,"C82-86,C96",Lymphome non hodgkinien,529,14.9,11.4,10,12.9
+Suisse,Femmes,1993,C90,Myélome multiple,206,5.8,4.1,3.3,5
+Suisse,Femmes,1993,C91-95,Leucémie,317,8.9,7.2,6.1,8.4
+Suisse,Femmes,1993,C91,Leucémie lymphoïde,143,4,3.2,2.5,4.1
+Suisse,Femmes,1993,C92-94,Leucémie myéloïde,166,4.7,3.7,2.9,4.6
+Suisse,Femmes,1993,Other_C-code,Autres localisations du cancer,617,17.4,11.9,10.6,13.4
+Suisse,Femmes,1993,"C00-43,C45-97",Tous les cancers (voir Méthode pour les critères d’inclusion),13370,376.7,299.2,291.9,306.6
+Suisse,Femmes,1994,C00-14,Cavité buccale et pharynx,253,7.1,5.9,4.9,7.1
+Suisse,Femmes,1994,C15,Œsophage,105,2.9,2.5,1.9,3.3
+Suisse,Femmes,1994,C16,Estomac,405,11.3,7.5,6.5,8.7
+Suisse,Femmes,1994,C17,Intestin grêle,64,1.8,1.4,1,2
+Suisse,Femmes,1994,C18-20,Côlon et Rectum,1554,43.4,30.7,28.5,33
+Suisse,Femmes,1994,C21,Anus et Canal anal,91,2.5,1.9,1.4,2.6
+Suisse,Femmes,1994,C22,Foie,115,3.2,2.1,1.6,2.8
+Suisse,Femmes,1994,C23-24,Vésicule et voies biliaires extra-hépat.,208,5.8,3.7,3,4.6
+Suisse,Femmes,1994,C25,Pancréas,373,10.4,7.2,6.2,8.3
+Suisse,Femmes,1994,C32,Larynx,38,1.1,0.9,0.6,1.4
+Suisse,Femmes,1994,C33-34,"Poumon, Bronches, Trachée",878,24.5,19.9,18.1,21.9
+Suisse,Femmes,1994,"C38.4,C45.0",Plèvre,19,0.5,0.4,0.2,0.8
+Suisse,Femmes,1994,C40-41,"Os, Articulations, Cartilage",36,1,1.1,0.6,1.6
+Suisse,Femmes,1994,C43,Mélanome,616,17.2,15,13.3,16.8
+Suisse,Femmes,1994,"C47,C49",Tissus mous,82,2.3,1.9,1.4,2.7
+Suisse,Femmes,1994,C50,Sein,4350,121.6,104.1,99.7,108.6
+Suisse,Femmes,1994,C53,Col de l'utérus,384,10.7,9.5,8.2,10.9
+Suisse,Femmes,1994,C54-55,Corps de l'utérus,838,23.4,19,17.2,20.9
+Suisse,Femmes,1994,C56,Ovaire,581,16.2,13.1,11.6,14.7
+Suisse,Femmes,1994,C64,Rein,287,8,6.4,5.4,7.5
+Suisse,Femmes,1994,C67,Vessie,327,9.1,6.5,5.5,7.6
+Suisse,Femmes,1994,"C65-66,C68",Autres organes urinaires,72,2,1.5,1,2.1
+Suisse,Femmes,1994,C69,Œil,33,0.9,0.9,0.5,1.4
+Suisse,Femmes,1994,C70-72,Cerveau et Système nerveux central,190,5.3,4.7,3.8,5.8
+Suisse,Femmes,1994,C73,Thyroïde,284,7.9,7,5.8,8.2
+Suisse,Femmes,1994,C81,Lymphome de Hodgkin,102,2.8,2.7,2,3.6
+Suisse,Femmes,1994,"C82-86,C96",Lymphome non hodgkinien,537,15,11.8,10.4,13.3
+Suisse,Femmes,1994,C90,Myélome multiple,211,5.9,4.1,3.3,4.9
+Suisse,Femmes,1994,C91-95,Leucémie,345,9.6,7.3,6.2,8.6
+Suisse,Femmes,1994,C91,Leucémie lymphoïde,163,4.6,3.5,2.7,4.4
+Suisse,Femmes,1994,C92-94,Leucémie myéloïde,172,4.8,3.6,2.9,4.5
+Suisse,Femmes,1994,Other_C-code,Autres localisations du cancer,678,19,13.2,11.8,14.7
+Suisse,Femmes,1994,"C00-43,C45-97",Tous les cancers (voir Méthode pour les critères d’inclusion),14055,392.9,313.8,306.3,321.4
+Suisse,Femmes,1995,C00-14,Cavité buccale et pharynx,213,5.9,4.9,4,6
+Suisse,Femmes,1995,C15,Œsophage,93,2.6,2,1.4,2.6
+Suisse,Femmes,1995,C16,Estomac,384,10.7,7.1,6.1,8.3
+Suisse,Femmes,1995,C17,Intestin grêle,47,1.3,1,0.6,1.6
+Suisse,Femmes,1995,C18-20,Côlon et Rectum,1606,44.6,31.9,29.6,34.2
+Suisse,Femmes,1995,C21,Anus et Canal anal,88,2.4,1.9,1.4,2.6
+Suisse,Femmes,1995,C22,Foie,124,3.4,2.4,1.9,3.2
+Suisse,Femmes,1995,C23-24,Vésicule et voies biliaires extra-hépat.,190,5.3,3.3,2.6,4
+Suisse,Femmes,1995,C25,Pancréas,444,12.3,8.4,7.2,9.6
+Suisse,Femmes,1995,C32,Larynx,33,0.9,0.9,0.5,1.4
+Suisse,Femmes,1995,C33-34,"Poumon, Bronches, Trachée",785,21.8,18.2,16.4,20.1
+Suisse,Femmes,1995,"C38.4,C45.0",Plèvre,19,0.5,0.4,0.2,0.8
+Suisse,Femmes,1995,C40-41,"Os, Articulations, Cartilage",28,0.8,0.8,0.4,1.3
+Suisse,Femmes,1995,C43,Mélanome,675,18.7,16,14.3,17.8
+Suisse,Femmes,1995,"C47,C49",Tissus mous,114,3.2,2.5,1.9,3.3
+Suisse,Femmes,1995,C50,Sein,4343,120.6,104.1,99.7,108.6
+Suisse,Femmes,1995,C53,Col de l'utérus,315,8.7,7.6,6.4,8.8
+Suisse,Femmes,1995,C54-55,Corps de l'utérus,825,22.9,18.6,16.8,20.5
+Suisse,Femmes,1995,C56,Ovaire,626,17.4,14.3,12.8,16
+Suisse,Femmes,1995,C64,Rein,239,6.6,5.4,4.5,6.5
+Suisse,Femmes,1995,C67,Vessie,241,6.7,4.4,3.6,5.3
+Suisse,Femmes,1995,"C65-66,C68",Autres organes urinaires,58,1.6,1.2,0.8,1.8
+Suisse,Femmes,1995,C69,Œil,28,0.8,0.7,0.4,1.2
+Suisse,Femmes,1995,C70-72,Cerveau et Système nerveux central,189,5.2,4.3,3.5,5.2
+Suisse,Femmes,1995,C73,Thyroïde,246,6.8,5.9,4.9,7.1
+Suisse,Femmes,1995,C81,Lymphome de Hodgkin,77,2.1,2.1,1.4,2.8
+Suisse,Femmes,1995,"C82-86,C96",Lymphome non hodgkinien,565,15.7,12,10.6,13.5
+Suisse,Femmes,1995,C90,Myélome multiple,189,5.2,3.9,3.1,4.8
+Suisse,Femmes,1995,C91-95,Leucémie,349,9.7,7.3,6.2,8.5
+Suisse,Femmes,1995,C91,Leucémie lymphoïde,158,4.4,3.4,2.7,4.3
+Suisse,Femmes,1995,C92-94,Leucémie myéloïde,181,5,3.8,3,4.7
+Suisse,Femmes,1995,Other_C-code,Autres localisations du cancer,670,18.6,12.6,11.2,14.1
+Suisse,Femmes,1995,"C00-43,C45-97",Tous les cancers (voir Méthode pour les critères d’inclusion),13801,383.1,305.8,298.5,313.3
+Suisse,Femmes,1996,C00-14,Cavité buccale et pharynx,267,7.4,6.3,5.3,7.4
+Suisse,Femmes,1996,C15,Œsophage,109,3,2.3,1.7,3
+Suisse,Femmes,1996,C16,Estomac,410,11.3,7.6,6.5,8.7
+Suisse,Femmes,1996,C17,Intestin grêle,51,1.4,1,0.6,1.4
+Suisse,Femmes,1996,C18-20,Côlon et Rectum,1585,43.8,30.5,28.3,32.7
+Suisse,Femmes,1996,C21,Anus et Canal anal,97,2.7,2.1,1.5,2.7
+Suisse,Femmes,1996,C22,Foie,143,4,2.8,2.2,3.6
+Suisse,Femmes,1996,C23-24,Vésicule et voies biliaires extra-hépat.,180,5,3.1,2.5,3.8
+Suisse,Femmes,1996,C25,Pancréas,405,11.2,7.5,6.5,8.7
+Suisse,Femmes,1996,C32,Larynx,25,0.7,0.6,0.3,1
+Suisse,Femmes,1996,C33-34,"Poumon, Bronches, Trachée",797,22,17.6,15.9,19.4
+Suisse,Femmes,1996,"C38.4,C45.0",Plèvre,10,0.3,0.2,0.1,0.5
+Suisse,Femmes,1996,C40-41,"Os, Articulations, Cartilage",25,0.7,0.7,0.3,1.1
+Suisse,Femmes,1996,C43,Mélanome,679,18.8,16.4,14.7,18.2
+Suisse,Femmes,1996,"C47,C49",Tissus mous,108,3,2.4,1.8,3.1
+Suisse,Femmes,1996,C50,Sein,4254,117.6,101.3,97.1,105.6
+Suisse,Femmes,1996,C53,Col de l'utérus,358,9.9,8.8,7.5,10.1
+Suisse,Femmes,1996,C54-55,Corps de l'utérus,880,24.3,20,18.2,21.9
+Suisse,Femmes,1996,C56,Ovaire,565,15.6,13,11.5,14.6
+Suisse,Femmes,1996,C64,Rein,233,6.5,5,4.1,6
+Suisse,Femmes,1996,C67,Vessie,298,8.2,5.7,4.8,6.7
+Suisse,Femmes,1996,"C65-66,C68",Autres organes urinaires,48,1.3,0.9,0.6,1.3
+Suisse,Femmes,1996,C69,Œil,29,0.8,0.8,0.4,1.3
+Suisse,Femmes,1996,C70-72,Cerveau et Système nerveux central,199,5.5,4.9,4,6
+Suisse,Femmes,1996,C73,Thyroïde,306,8.5,7.5,6.4,8.8
+Suisse,Femmes,1996,C81,Lymphome de Hodgkin,77,2.1,2.1,1.5,2.9
+Suisse,Femmes,1996,"C82-86,C96",Lymphome non hodgkinien,571,15.8,12.4,11,14
+Suisse,Femmes,1996,C90,Myélome multiple,217,6,4.2,3.4,5.1
+Suisse,Femmes,1996,C91-95,Leucémie,332,9.2,7.4,6.3,8.6
+Suisse,Femmes,1996,C91,Leucémie lymphoïde,158,4.4,3.4,2.7,4.3
+Suisse,Femmes,1996,C92-94,Leucémie myéloïde,163,4.5,3.8,3,4.7
+Suisse,Femmes,1996,Other_C-code,Autres localisations du cancer,698,19.3,13.1,11.8,14.6
+Suisse,Femmes,1996,"C00-43,C45-97",Tous les cancers (voir Méthode pour les critères d’inclusion),13960,385.8,307.8,300.7,315.1
+Suisse,Femmes,1997,C00-14,Cavité buccale et pharynx,241,6.6,5.6,4.7,6.7
+Suisse,Femmes,1997,C15,Œsophage,116,3.2,2.3,1.7,2.9
+Suisse,Femmes,1997,C16,Estomac,374,10.3,7,6,8.1
+Suisse,Femmes,1997,C17,Intestin grêle,63,1.7,1.3,0.9,1.9
+Suisse,Femmes,1997,C18-20,Côlon et Rectum,1832,50.5,35.2,32.9,37.6
+Suisse,Femmes,1997,C21,Anus et Canal anal,95,2.6,2.1,1.5,2.8
+Suisse,Femmes,1997,C22,Foie,119,3.3,2.3,1.7,2.9
+Suisse,Femmes,1997,C23-24,Vésicule et voies biliaires extra-hépat.,205,5.7,3.6,2.9,4.3
+Suisse,Femmes,1997,C25,Pancréas,443,12.2,8.3,7.2,9.4
+Suisse,Femmes,1997,C32,Larynx,45,1.3,1.1,0.7,1.6
+Suisse,Femmes,1997,C33-34,"Poumon, Bronches, Trachée",884,24.4,19.5,17.8,21.4
+Suisse,Femmes,1997,"C38.4,C45.0",Plèvre,31,0.8,0.7,0.4,1.1
+Suisse,Femmes,1997,C40-41,"Os, Articulations, Cartilage",21,0.6,0.4,0.2,0.8
+Suisse,Femmes,1997,C43,Mélanome,735,20.3,17.2,15.4,19
+Suisse,Femmes,1997,"C47,C49",Tissus mous,102,2.8,2.1,1.5,2.8
+Suisse,Femmes,1997,C50,Sein,4419,121.8,102.3,98.2,106.6
+Suisse,Femmes,1997,C53,Col de l'utérus,367,10.1,8.8,7.6,10.2
+Suisse,Femmes,1997,C54-55,Corps de l'utérus,867,23.9,19.2,17.4,21.1
+Suisse,Femmes,1997,C56,Ovaire,655,18.1,14.6,13.1,16.3
+Suisse,Femmes,1997,C64,Rein,298,8.2,6.1,5.1,7.2
+Suisse,Femmes,1997,C67,Vessie,250,6.9,4.5,3.8,5.4
+Suisse,Femmes,1997,"C65-66,C68",Autres organes urinaires,63,1.7,1.3,0.9,1.9
+Suisse,Femmes,1997,C69,Œil,36,1,0.9,0.5,1.5
+Suisse,Femmes,1997,C70-72,Cerveau et Système nerveux central,187,5.2,4.6,3.7,5.6
+Suisse,Femmes,1997,C73,Thyroïde,290,8,7,5.9,8.2
+Suisse,Femmes,1997,C81,Lymphome de Hodgkin,90,2.5,2.4,1.8,3.2
+Suisse,Femmes,1997,"C82-86,C96",Lymphome non hodgkinien,528,14.6,11.3,10,12.8
+Suisse,Femmes,1997,C90,Myélome multiple,168,4.6,3.1,2.5,3.9
+Suisse,Femmes,1997,C91-95,Leucémie,340,9.4,7.5,6.4,8.8
+Suisse,Femmes,1997,C91,Leucémie lymphoïde,160,4.4,3.5,2.8,4.4
+Suisse,Femmes,1997,C92-94,Leucémie myéloïde,166,4.6,3.7,3,4.7
+Suisse,Femmes,1997,Other_C-code,Autres localisations du cancer,797,22,14.1,12.7,15.7
+Suisse,Femmes,1997,"C00-43,C45-97",Tous les cancers (voir Méthode pour les critères d’inclusion),14659,404.1,316.3,309.1,323.7
+Suisse,Femmes,1998,C00-14,Cavité buccale et pharynx,251,6.9,6.1,5.1,7.2
+Suisse,Femmes,1998,C15,Œsophage,99,2.7,2,1.5,2.6
+Suisse,Femmes,1998,C16,Estomac,361,9.9,6.8,5.8,7.9
+Suisse,Femmes,1998,C17,Intestin grêle,58,1.6,1.1,0.7,1.6
+Suisse,Femmes,1998,C18-20,Côlon et Rectum,1671,45.9,31.5,29.3,33.7
+Suisse,Femmes,1998,C21,Anus et Canal anal,85,2.3,1.7,1.2,2.3
+Suisse,Femmes,1998,C22,Foie,138,3.8,2.8,2.1,3.5
+Suisse,Femmes,1998,C23-24,Vésicule et voies biliaires extra-hépat.,199,5.5,3.3,2.6,4
+Suisse,Femmes,1998,C25,Pancréas,504,13.8,9.2,8.1,10.5
+Suisse,Femmes,1998,C32,Larynx,42,1.1,0.9,0.6,1.4
+Suisse,Femmes,1998,C33-34,"Poumon, Bronches, Trachée",899,24.7,19.4,17.7,21.3
+Suisse,Femmes,1998,"C38.4,C45.0",Plèvre,17,0.5,0.4,0.2,0.7
+Suisse,Femmes,1998,C40-41,"Os, Articulations, Cartilage",39,1.1,1.1,0.7,1.7
+Suisse,Femmes,1998,C43,Mélanome,770,21.2,18.6,16.8,20.5
+Suisse,Femmes,1998,"C47,C49",Tissus mous,101,2.8,2,1.5,2.7
+Suisse,Femmes,1998,C50,Sein,4855,133.5,112.8,108.5,117.3
+Suisse,Femmes,1998,C53,Col de l'utérus,361,9.9,8.6,7.4,10
+Suisse,Femmes,1998,C54-55,Corps de l'utérus,822,22.6,17.5,15.9,19.3
+Suisse,Femmes,1998,C56,Ovaire,619,17,13.6,12.2,15.2
+Suisse,Femmes,1998,C64,Rein,211,5.8,4.4,3.6,5.3
+Suisse,Femmes,1998,C67,Vessie,257,7.1,4.6,3.8,5.5
+Suisse,Femmes,1998,"C65-66,C68",Autres organes urinaires,58,1.6,1,0.7,1.5
+Suisse,Femmes,1998,C69,Œil,24,0.7,0.6,0.3,1
+Suisse,Femmes,1998,C70-72,Cerveau et Système nerveux central,226,6.2,5.5,4.6,6.6
+Suisse,Femmes,1998,C73,Thyroïde,255,7,6,5,7.1
+Suisse,Femmes,1998,C81,Lymphome de Hodgkin,81,2.2,2.2,1.6,3
+Suisse,Femmes,1998,"C82-86,C96",Lymphome non hodgkinien,540,14.8,11.6,10.2,13.1
+Suisse,Femmes,1998,C90,Myélome multiple,165,4.5,3.3,2.6,4.1
+Suisse,Femmes,1998,C91-95,Leucémie,320,8.8,6.5,5.5,7.7
+Suisse,Femmes,1998,C91,Leucémie lymphoïde,163,4.5,3.4,2.7,4.3
+Suisse,Femmes,1998,C92-94,Leucémie myéloïde,151,4.1,3,2.4,3.8
+Suisse,Femmes,1998,Other_C-code,Autres localisations du cancer,799,22,14.8,13.3,16.4
+Suisse,Femmes,1998,"C00-43,C45-97",Tous les cancers (voir Méthode pour les critères d’inclusion),14828,407.6,319.9,312.6,327.2
+Suisse,Femmes,1999,C00-14,Cavité buccale et pharynx,278,7.6,6.1,5.2,7.2
+Suisse,Femmes,1999,C15,Œsophage,112,3.1,2.2,1.7,2.9
+Suisse,Femmes,1999,C16,Estomac,322,8.8,5.6,4.7,6.5
+Suisse,Femmes,1999,C17,Intestin grêle,43,1.2,0.9,0.6,1.4
+Suisse,Femmes,1999,C18-20,Côlon et Rectum,1748,47.8,33.1,30.9,35.4
+Suisse,Femmes,1999,C21,Anus et Canal anal,92,2.5,1.7,1.3,2.3
+Suisse,Femmes,1999,C22,Foie,136,3.7,2.7,2.1,3.4
+Suisse,Femmes,1999,C23-24,Vésicule et voies biliaires extra-hépat.,168,4.6,2.9,2.3,3.6
+Suisse,Femmes,1999,C25,Pancréas,435,11.9,7.9,6.9,9.1
+Suisse,Femmes,1999,C32,Larynx,45,1.2,1.1,0.7,1.6
+Suisse,Femmes,1999,C33-34,"Poumon, Bronches, Trachée",1034,28.3,22.3,20.5,24.3
+Suisse,Femmes,1999,"C38.4,C45.0",Plèvre,18,0.5,0.3,0.2,0.7
+Suisse,Femmes,1999,C40-41,"Os, Articulations, Cartilage",34,0.9,0.8,0.5,1.3
+Suisse,Femmes,1999,C43,Mélanome,816,22.3,19.2,17.4,21.1
+Suisse,Femmes,1999,"C47,C49",Tissus mous,105,2.9,2.2,1.6,2.9
+Suisse,Femmes,1999,C50,Sein,4759,130.2,109.8,105.5,114.2
+Suisse,Femmes,1999,C53,Col de l'utérus,309,8.5,7.2,6.2,8.5
+Suisse,Femmes,1999,C54-55,Corps de l'utérus,896,24.5,19.8,18,21.7
+Suisse,Femmes,1999,C56,Ovaire,574,15.7,12.9,11.4,14.5
+Suisse,Femmes,1999,C64,Rein,263,7.2,5.5,4.6,6.5
+Suisse,Femmes,1999,C67,Vessie,252,6.9,4.4,3.6,5.2
+Suisse,Femmes,1999,"C65-66,C68",Autres organes urinaires,40,1.1,0.8,0.5,1.2
+Suisse,Femmes,1999,C69,Œil,40,1.1,1,0.6,1.6
+Suisse,Femmes,1999,C70-72,Cerveau et Système nerveux central,209,5.7,5,4.1,6
+Suisse,Femmes,1999,C73,Thyroïde,275,7.5,6.7,5.6,7.9
+Suisse,Femmes,1999,C81,Lymphome de Hodgkin,92,2.5,2.4,1.7,3.1
+Suisse,Femmes,1999,"C82-86,C96",Lymphome non hodgkinien,527,14.4,10.9,9.7,12.3
+Suisse,Femmes,1999,C90,Myélome multiple,257,7,5.1,4.2,6.1
+Suisse,Femmes,1999,C91-95,Leucémie,384,10.5,8.1,7,9.4
+Suisse,Femmes,1999,C91,Leucémie lymphoïde,199,5.4,4.3,3.4,5.2
+Suisse,Femmes,1999,C92-94,Leucémie myéloïde,170,4.7,3.6,2.8,4.4
+Suisse,Femmes,1999,Other_C-code,Autres localisations du cancer,742,20.3,13.9,12.4,15.4
+Suisse,Femmes,1999,"C00-43,C45-97",Tous les cancers (voir Méthode pour les critères d’inclusion),15004,410.6,322.4,315.2,329.8
+Suisse,Femmes,2000,C00-14,Cavité buccale et pharynx,266,7.2,5.9,4.9,6.9
+Suisse,Femmes,2000,C15,Œsophage,103,2.8,1.9,1.5,2.5
+Suisse,Femmes,2000,C16,Estomac,303,8.3,5.5,4.6,6.5
+Suisse,Femmes,2000,C17,Intestin grêle,75,2,1.6,1.2,2.3
+Suisse,Femmes,2000,C18-20,Côlon et Rectum,1685,45.9,31.2,29.1,33.4
+Suisse,Femmes,2000,C21,Anus et Canal anal,105,2.9,2.3,1.8,3.1
+Suisse,Femmes,2000,C22,Foie,135,3.7,2.6,2,3.3
+Suisse,Femmes,2000,C23-24,Vésicule et voies biliaires extra-hépat.,199,5.4,3.6,2.9,4.4
+Suisse,Femmes,2000,C25,Pancréas,468,12.7,8.6,7.5,9.8
+Suisse,Femmes,2000,C32,Larynx,27,0.7,0.7,0.4,1.1
+Suisse,Femmes,2000,C33-34,"Poumon, Bronches, Trachée",1013,27.6,21.7,19.9,23.7
+Suisse,Femmes,2000,"C38.4,C45.0",Plèvre,11,0.3,0.3,0.1,0.6
+Suisse,Femmes,2000,C40-41,"Os, Articulations, Cartilage",34,0.9,1,0.6,1.5
+Suisse,Femmes,2000,C43,Mélanome,787,21.4,18,16.3,19.8
+Suisse,Femmes,2000,"C47,C49",Tissus mous,83,2.3,1.7,1.2,2.4
+Suisse,Femmes,2000,C50,Sein,5096,138.7,115.3,110.9,119.8
+Suisse,Femmes,2000,C53,Col de l'utérus,305,8.3,6.8,5.8,8
+Suisse,Femmes,2000,C54-55,Corps de l'utérus,872,23.7,18.4,16.7,20.2
+Suisse,Femmes,2000,C56,Ovaire,630,17.2,13.7,12.2,15.3
+Suisse,Femmes,2000,C64,Rein,224,6.1,4.6,3.8,5.5
+Suisse,Femmes,2000,C67,Vessie,303,8.2,5.3,4.4,6.2
+Suisse,Femmes,2000,"C65-66,C68",Autres organes urinaires,49,1.3,0.9,0.5,1.3
+Suisse,Femmes,2000,C69,Œil,22,0.6,0.6,0.3,1
+Suisse,Femmes,2000,C70-72,Cerveau et Système nerveux central,244,6.6,5.7,4.7,6.8
+Suisse,Femmes,2000,C73,Thyroïde,314,8.5,7.5,6.4,8.8
+Suisse,Femmes,2000,C81,Lymphome de Hodgkin,95,2.6,2.6,1.9,3.4
+Suisse,Femmes,2000,"C82-86,C96",Lymphome non hodgkinien,505,13.7,9.7,8.6,11
+Suisse,Femmes,2000,C90,Myélome multiple,245,6.7,4.5,3.7,5.4
+Suisse,Femmes,2000,C91-95,Leucémie,407,11.1,8.2,7.1,9.5
+Suisse,Femmes,2000,C91,Leucémie lymphoïde,221,6,4.2,3.4,5.1
+Suisse,Femmes,2000,C92-94,Leucémie myéloïde,179,4.9,3.9,3.1,4.9
+Suisse,Femmes,2000,Other_C-code,Autres localisations du cancer,742,20.2,13.9,12.5,15.5
+Suisse,Femmes,2000,"C00-43,C45-97",Tous les cancers (voir Méthode pour les critères d’inclusion),15348,417.8,324.3,317.1,331.6
+Suisse,Femmes,2001,C00-14,Cavité buccale et pharynx,280,7.6,6.2,5.2,7.2
+Suisse,Femmes,2001,C15,Œsophage,98,2.7,2,1.5,2.6
+Suisse,Femmes,2001,C16,Estomac,334,9,5.9,5,6.9
+Suisse,Femmes,2001,C17,Intestin grêle,68,1.8,1.3,0.9,1.9
+Suisse,Femmes,2001,C18-20,Côlon et Rectum,1876,50.7,34.1,31.9,36.4
+Suisse,Femmes,2001,C21,Anus et Canal anal,106,2.9,2.3,1.7,3
+Suisse,Femmes,2001,C22,Foie,124,3.4,2.3,1.8,3
+Suisse,Femmes,2001,C23-24,Vésicule et voies biliaires extra-hépat.,191,5.2,3.3,2.7,4.1
+Suisse,Femmes,2001,C25,Pancréas,443,12,7.5,6.5,8.6
+Suisse,Femmes,2001,C32,Larynx,63,1.7,1.4,1,2
+Suisse,Femmes,2001,C33-34,"Poumon, Bronches, Trachée",1112,30.1,23.6,21.7,25.6
+Suisse,Femmes,2001,"C38.4,C45.0",Plèvre,19,0.5,0.3,0.2,0.6
+Suisse,Femmes,2001,C40-41,"Os, Articulations, Cartilage",36,1,1,0.6,1.6
+Suisse,Femmes,2001,C43,Mélanome,847,22.9,19.2,17.4,21.1
+Suisse,Femmes,2001,"C47,C49",Tissus mous,77,2.1,1.7,1.2,2.3
+Suisse,Femmes,2001,C50,Sein,5110,138.2,115,110.7,119.4
+Suisse,Femmes,2001,C53,Col de l'utérus,314,8.5,7.4,6.3,8.6
+Suisse,Femmes,2001,C54-55,Corps de l'utérus,861,23.3,18.6,16.9,20.4
+Suisse,Femmes,2001,C56,Ovaire,569,15.4,12,10.7,13.5
+Suisse,Femmes,2001,C64,Rein,240,6.5,4.9,4,5.8
+Suisse,Femmes,2001,C67,Vessie,269,7.3,4.4,3.7,5.3
+Suisse,Femmes,2001,"C65-66,C68",Autres organes urinaires,64,1.7,1,0.7,1.5
+Suisse,Femmes,2001,C69,Œil,29,0.8,0.7,0.4,1.1
+Suisse,Femmes,2001,C70-72,Cerveau et Système nerveux central,234,6.3,5.5,4.6,6.6
+Suisse,Femmes,2001,C73,Thyroïde,296,8,6.6,5.6,7.8
+Suisse,Femmes,2001,C81,Lymphome de Hodgkin,90,2.4,2.4,1.8,3.2
+Suisse,Femmes,2001,"C82-86,C96",Lymphome non hodgkinien,580,15.7,11.6,10.3,13.1
+Suisse,Femmes,2001,C90,Myélome multiple,214,5.8,3.9,3.2,4.7
+Suisse,Femmes,2001,C91-95,Leucémie,418,11.3,8.3,7.1,9.5
+Suisse,Femmes,2001,C91,Leucémie lymphoïde,218,5.9,4.2,3.4,5.2
+Suisse,Femmes,2001,C92-94,Leucémie myéloïde,186,5,3.7,3,4.6
+Suisse,Femmes,2001,Other_C-code,Autres localisations du cancer,715,19.3,13.3,11.9,14.8
+Suisse,Femmes,2001,"C00-43,C45-97",Tous les cancers (voir Méthode pour les critères d’inclusion),15677,424,327.7,320.5,335
+Suisse,Femmes,2002,C00-14,Cavité buccale et pharynx,287,7.7,6.3,5.3,7.4
+Suisse,Femmes,2002,C15,Œsophage,159,4.3,2.9,2.3,3.7
+Suisse,Femmes,2002,C16,Estomac,327,8.8,5.7,4.9,6.7
+Suisse,Femmes,2002,C17,Intestin grêle,76,2,1.4,1,2
+Suisse,Femmes,2002,C18-20,Côlon et Rectum,1690,45.4,31.1,29,33.4
+Suisse,Femmes,2002,C21,Anus et Canal anal,107,2.9,2.2,1.7,2.9
+Suisse,Femmes,2002,C22,Foie,181,4.9,3.3,2.7,4.1
+Suisse,Femmes,2002,C23-24,Vésicule et voies biliaires extra-hépat.,200,5.4,3.5,2.8,4.2
+Suisse,Femmes,2002,C25,Pancréas,503,13.5,8.4,7.4,9.6
+Suisse,Femmes,2002,C32,Larynx,45,1.2,1,0.6,1.5
+Suisse,Femmes,2002,C33-34,"Poumon, Bronches, Trachée",1009,27.1,21.4,19.6,23.3
+Suisse,Femmes,2002,"C38.4,C45.0",Plèvre,22,0.6,0.4,0.2,0.7
+Suisse,Femmes,2002,C40-41,"Os, Articulations, Cartilage",30,0.8,0.8,0.5,1.3
+Suisse,Femmes,2002,C43,Mélanome,909,24.4,20.8,19,22.8
+Suisse,Femmes,2002,"C47,C49",Tissus mous,104,2.8,2.2,1.6,2.9
+Suisse,Femmes,2002,C50,Sein,5072,136.2,112,107.8,116.4
+Suisse,Femmes,2002,C53,Col de l'utérus,302,8.1,6.6,5.5,7.7
+Suisse,Femmes,2002,C54-55,Corps de l'utérus,907,24.3,18.9,17.3,20.8
+Suisse,Femmes,2002,C56,Ovaire,517,13.9,11.1,9.8,12.6
+Suisse,Femmes,2002,C64,Rein,238,6.4,4.7,3.9,5.6
+Suisse,Femmes,2002,C67,Vessie,271,7.3,4.7,4,5.6
+Suisse,Femmes,2002,"C65-66,C68",Autres organes urinaires,51,1.4,0.9,0.6,1.3
+Suisse,Femmes,2002,C69,Œil,28,0.8,0.6,0.4,1.1
+Suisse,Femmes,2002,C70-72,Cerveau et Système nerveux central,200,5.4,4.4,3.6,5.4
+Suisse,Femmes,2002,C73,Thyroïde,307,8.2,7.4,6.3,8.7
+Suisse,Femmes,2002,C81,Lymphome de Hodgkin,116,3.1,3,2.3,3.9
+Suisse,Femmes,2002,"C82-86,C96",Lymphome non hodgkinien,536,14.4,10.7,9.4,12
+Suisse,Femmes,2002,C90,Myélome multiple,188,5.1,3.4,2.7,4.1
+Suisse,Femmes,2002,C91-95,Leucémie,401,10.8,8,6.8,9.2
+Suisse,Femmes,2002,C91,Leucémie lymphoïde,215,5.8,4.4,3.6,5.4
+Suisse,Femmes,2002,C92-94,Leucémie myéloïde,172,4.6,3.4,2.7,4.2
+Suisse,Femmes,2002,Other_C-code,Autres localisations du cancer,709,19,12.7,11.4,14.2
+Suisse,Femmes,2002,"C00-43,C45-97",Tous les cancers (voir Méthode pour les critères d’inclusion),15494,415.9,320.8,313.7,328
+Suisse,Femmes,2003,C00-14,Cavité buccale et pharynx,274,7.3,5.8,4.9,6.8
+Suisse,Femmes,2003,C15,Œsophage,107,2.8,1.9,1.5,2.5
+Suisse,Femmes,2003,C16,Estomac,310,8.3,5.3,4.5,6.2
+Suisse,Femmes,2003,C17,Intestin grêle,73,1.9,1.4,1,2
+Suisse,Femmes,2003,C18-20,Côlon et Rectum,1820,48.5,32.2,30,34.4
+Suisse,Femmes,2003,C21,Anus et Canal anal,66,1.8,1.4,1,1.9
+Suisse,Femmes,2003,C22,Foie,154,4.1,2.7,2.1,3.3
+Suisse,Femmes,2003,C23-24,Vésicule et voies biliaires extra-hépat.,200,5.3,3.3,2.7,4
+Suisse,Femmes,2003,C25,Pancréas,509,13.6,9.1,8,10.3
+Suisse,Femmes,2003,C32,Larynx,30,0.8,0.6,0.3,0.9
+Suisse,Femmes,2003,C33-34,"Poumon, Bronches, Trachée",1202,32,24.5,22.6,26.5
+Suisse,Femmes,2003,"C38.4,C45.0",Plèvre,20,0.5,0.3,0.1,0.6
+Suisse,Femmes,2003,C40-41,"Os, Articulations, Cartilage",39,1,1,0.6,1.6
+Suisse,Femmes,2003,C43,Mélanome,963,25.7,22,20.1,24.1
+Suisse,Femmes,2003,"C47,C49",Tissus mous,122,3.3,2.4,1.9,3.2
+Suisse,Femmes,2003,C50,Sein,5150,137.3,112.2,108,116.6
+Suisse,Femmes,2003,C53,Col de l'utérus,243,6.5,5.4,4.5,6.5
+Suisse,Femmes,2003,C54-55,Corps de l'utérus,848,22.6,17.4,15.8,19.2
+Suisse,Femmes,2003,C56,Ovaire,568,15.1,11.9,10.6,13.3
+Suisse,Femmes,2003,C64,Rein,250,6.7,4.9,4.1,5.8
+Suisse,Femmes,2003,C67,Vessie,267,7.1,4.3,3.6,5.1
+Suisse,Femmes,2003,"C65-66,C68",Autres organes urinaires,59,1.6,1,0.7,1.5
+Suisse,Femmes,2003,C69,Œil,38,1,0.9,0.5,1.4
+Suisse,Femmes,2003,C70-72,Cerveau et Système nerveux central,186,5,4.3,3.4,5.2
+Suisse,Femmes,2003,C73,Thyroïde,323,8.6,7.7,6.6,8.9
+Suisse,Femmes,2003,C81,Lymphome de Hodgkin,85,2.3,2.3,1.6,3
+Suisse,Femmes,2003,"C82-86,C96",Lymphome non hodgkinien,623,16.6,12.2,10.8,13.6
+Suisse,Femmes,2003,C90,Myélome multiple,235,6.3,4.4,3.7,5.3
+Suisse,Femmes,2003,C91-95,Leucémie,434,11.6,8.4,7.3,9.7
+Suisse,Femmes,2003,C91,Leucémie lymphoïde,237,6.3,4.3,3.5,5.3
+Suisse,Femmes,2003,C92-94,Leucémie myéloïde,189,5,3.8,3.1,4.7
+Suisse,Femmes,2003,Other_C-code,Autres localisations du cancer,726,19.4,13.5,12.1,15
+Suisse,Femmes,2003,"C00-43,C45-97",Tous les cancers (voir Méthode pour les critères d’inclusion),15924,424.6,324.6,317.5,331.8
+Suisse,Femmes,2004,C00-14,Cavité buccale et pharynx,272,7.2,5.9,4.9,6.9
+Suisse,Femmes,2004,C15,Œsophage,120,3.2,2.2,1.7,2.9
+Suisse,Femmes,2004,C16,Estomac,354,9.4,6,5.1,7
+Suisse,Femmes,2004,C17,Intestin grêle,56,1.5,1,0.7,1.5
+Suisse,Femmes,2004,C18-20,Côlon et Rectum,1839,48.7,32.2,30.1,34.4
+Suisse,Femmes,2004,C21,Anus et Canal anal,118,3.1,2.3,1.7,2.9
+Suisse,Femmes,2004,C22,Foie,177,4.7,3.2,2.6,4
+Suisse,Femmes,2004,C23-24,Vésicule et voies biliaires extra-hépat.,166,4.4,2.5,2,3.1
+Suisse,Femmes,2004,C25,Pancréas,544,14.4,8.9,7.9,10.1
+Suisse,Femmes,2004,C32,Larynx,37,1,0.8,0.5,1.2
+Suisse,Femmes,2004,C33-34,"Poumon, Bronches, Trachée",1182,31.3,24,22.1,26
+Suisse,Femmes,2004,"C38.4,C45.0",Plèvre,22,0.6,0.4,0.2,0.7
+Suisse,Femmes,2004,C40-41,"Os, Articulations, Cartilage",41,1.1,1,0.6,1.5
+Suisse,Femmes,2004,C43,Mélanome,925,24.5,19.9,18.2,21.8
+Suisse,Femmes,2004,"C47,C49",Tissus mous,115,3.1,2.3,1.7,3
+Suisse,Femmes,2004,C50,Sein,5159,136.7,110.6,106.5,114.9
+Suisse,Femmes,2004,C53,Col de l'utérus,270,7.2,5.9,5,7
+Suisse,Femmes,2004,C54-55,Corps de l'utérus,959,25.4,19.5,17.8,21.3
+Suisse,Femmes,2004,C56,Ovaire,609,16.1,12.1,10.8,13.5
+Suisse,Femmes,2004,C64,Rein,238,6.3,4.4,3.6,5.2
+Suisse,Femmes,2004,C67,Vessie,217,5.8,3.4,2.8,4.1
+Suisse,Femmes,2004,"C65-66,C68",Autres organes urinaires,41,1.1,0.8,0.5,1.2
+Suisse,Femmes,2004,C69,Œil,27,0.7,0.6,0.3,1
+Suisse,Femmes,2004,C70-72,Cerveau et Système nerveux central,213,5.7,4.6,3.8,5.6
+Suisse,Femmes,2004,C73,Thyroïde,322,8.5,7.7,6.6,9
+Suisse,Femmes,2004,C81,Lymphome de Hodgkin,91,2.4,2.3,1.7,3
+Suisse,Femmes,2004,"C82-86,C96",Lymphome non hodgkinien,552,14.6,10.8,9.5,12.1
+Suisse,Femmes,2004,C90,Myélome multiple,231,6.1,4.2,3.4,5
+Suisse,Femmes,2004,C91-95,Leucémie,386,10.2,7.4,6.4,8.6
+Suisse,Femmes,2004,C91,Leucémie lymphoïde,191,5.1,3.8,3.1,4.7
+Suisse,Femmes,2004,C92-94,Leucémie myéloïde,184,4.9,3.4,2.7,4.2
+Suisse,Femmes,2004,Other_C-code,Autres localisations du cancer,733,19.4,12.4,11.1,13.9
+Suisse,Femmes,2004,"C00-43,C45-97",Tous les cancers (voir Méthode pour les critères d’inclusion),16016,424.3,319.3,312.3,326.4
+Suisse,Femmes,2005,C00-14,Cavité buccale et pharynx,348,9.2,7.5,6.4,8.7
+Suisse,Femmes,2005,C15,Œsophage,118,3.1,2.3,1.8,3
+Suisse,Femmes,2005,C16,Estomac,326,8.6,5.1,4.3,5.9
+Suisse,Femmes,2005,C17,Intestin grêle,54,1.4,1.1,0.7,1.5
+Suisse,Femmes,2005,C18-20,Côlon et Rectum,1816,47.8,31.5,29.4,33.6
+Suisse,Femmes,2005,C21,Anus et Canal anal,131,3.4,2.7,2.1,3.4
+Suisse,Femmes,2005,C22,Foie,154,4.1,2.9,2.3,3.6
+Suisse,Femmes,2005,C23-24,Vésicule et voies biliaires extra-hépat.,166,4.4,2.7,2.1,3.3
+Suisse,Femmes,2005,C25,Pancréas,616,16.2,10.1,9,11.4
+Suisse,Femmes,2005,C32,Larynx,26,0.7,0.5,0.3,0.9
+Suisse,Femmes,2005,C33-34,"Poumon, Bronches, Trachée",1291,34,26.4,24.4,28.5
+Suisse,Femmes,2005,"C38.4,C45.0",Plèvre,31,0.8,0.5,0.3,0.9
+Suisse,Femmes,2005,C40-41,"Os, Articulations, Cartilage",32,0.8,0.8,0.5,1.4
+Suisse,Femmes,2005,C43,Mélanome,933,24.6,20,18.3,21.9
+Suisse,Femmes,2005,"C47,C49",Tissus mous,102,2.7,2.1,1.5,2.8
+Suisse,Femmes,2005,C50,Sein,5176,136.3,108.8,104.7,113
+Suisse,Femmes,2005,C53,Col de l'utérus,213,5.6,4.8,4,5.8
+Suisse,Femmes,2005,C54-55,Corps de l'utérus,914,24.1,18.1,16.5,19.9
+Suisse,Femmes,2005,C56,Ovaire,646,17,12.6,11.3,14.1
+Suisse,Femmes,2005,C64,Rein,255,6.7,4.8,4,5.8
+Suisse,Femmes,2005,C67,Vessie,278,7.3,4.6,3.8,5.4
+Suisse,Femmes,2005,"C65-66,C68",Autres organes urinaires,71,1.9,1.1,0.8,1.6
+Suisse,Femmes,2005,C69,Œil,25,0.7,0.5,0.3,0.9
+Suisse,Femmes,2005,C70-72,Cerveau et Système nerveux central,262,6.9,5.9,4.9,7
+Suisse,Femmes,2005,C73,Thyroïde,358,9.4,8.3,7.1,9.5
+Suisse,Femmes,2005,C81,Lymphome de Hodgkin,91,2.4,2.3,1.7,3.1
+Suisse,Femmes,2005,"C82-86,C96",Lymphome non hodgkinien,618,16.3,11.5,10.2,12.9
+Suisse,Femmes,2005,C90,Myélome multiple,209,5.5,3.7,3,4.5
+Suisse,Femmes,2005,C91-95,Leucémie,428,11.3,8.6,7.5,9.9
+Suisse,Femmes,2005,C91,Leucémie lymphoïde,216,5.7,4.4,3.6,5.4
+Suisse,Femmes,2005,C92-94,Leucémie myéloïde,204,5.4,4,3.3,4.9
+Suisse,Femmes,2005,Other_C-code,Autres localisations du cancer,658,17.3,10.9,9.7,12.2
+Suisse,Femmes,2005,"C00-43,C45-97",Tous les cancers (voir Méthode pour les critères d’inclusion),16349,430.6,322.7,315.7,329.8
+Suisse,Femmes,2006,C00-14,Cavité buccale et pharynx,306,8,6.2,5.2,7.2
+Suisse,Femmes,2006,C15,Œsophage,141,3.7,2.6,2,3.3
+Suisse,Femmes,2006,C16,Estomac,345,9,6,5.2,7
+Suisse,Femmes,2006,C17,Intestin grêle,54,1.4,1,0.7,1.5
+Suisse,Femmes,2006,C18-20,Côlon et Rectum,1911,50,32.6,30.5,34.7
+Suisse,Femmes,2006,C21,Anus et Canal anal,140,3.7,2.8,2.2,3.5
+Suisse,Femmes,2006,C22,Foie,156,4.1,2.8,2.3,3.5
+Suisse,Femmes,2006,C23-24,Vésicule et voies biliaires extra-hépat.,217,5.7,3.3,2.7,4.1
+Suisse,Femmes,2006,C25,Pancréas,524,13.7,8.6,7.6,9.7
+Suisse,Femmes,2006,C32,Larynx,33,0.9,0.7,0.4,1
+Suisse,Femmes,2006,C33-34,"Poumon, Bronches, Trachée",1368,35.8,26.5,24.6,28.5
+Suisse,Femmes,2006,"C38.4,C45.0",Plèvre,16,0.4,0.2,0.1,0.5
+Suisse,Femmes,2006,C40-41,"Os, Articulations, Cartilage",29,0.7,0.7,0.4,1.1
+Suisse,Femmes,2006,C43,Mélanome,980,25.7,20.8,19.1,22.7
+Suisse,Femmes,2006,"C47,C49",Tissus mous,91,2.4,2,1.4,2.6
+Suisse,Femmes,2006,C50,Sein,5186,135.8,107.5,103.5,111.6
+Suisse,Femmes,2006,C53,Col de l'utérus,242,6.3,5.4,4.5,6.5
+Suisse,Femmes,2006,C54-55,Corps de l'utérus,893,23.4,17.1,15.6,18.8
+Suisse,Femmes,2006,C56,Ovaire,583,15.3,11.4,10.1,12.8
+Suisse,Femmes,2006,C64,Rein,294,7.7,5.4,4.5,6.4
+Suisse,Femmes,2006,C67,Vessie,262,6.9,4.4,3.7,5.3
+Suisse,Femmes,2006,"C65-66,C68",Autres organes urinaires,41,1.1,0.6,0.4,1
+Suisse,Femmes,2006,C69,Œil,22,0.6,0.4,0.2,0.7
+Suisse,Femmes,2006,C70-72,Cerveau et Système nerveux central,267,7,5.9,4.9,6.9
+Suisse,Femmes,2006,C73,Thyroïde,374,9.8,8.6,7.4,9.9
+Suisse,Femmes,2006,C81,Lymphome de Hodgkin,102,2.7,2.7,2,3.5
+Suisse,Femmes,2006,"C82-86,C96",Lymphome non hodgkinien,659,17.2,12.3,11,13.8
+Suisse,Femmes,2006,C90,Myélome multiple,205,5.4,3.5,2.8,4.3
+Suisse,Femmes,2006,C91-95,Leucémie,477,12.5,9.1,8,10.4
+Suisse,Femmes,2006,C91,Leucémie lymphoïde,276,7.2,5.3,4.4,6.4
+Suisse,Femmes,2006,C92-94,Leucémie myéloïde,185,4.8,3.6,2.9,4.4
+Suisse,Femmes,2006,Other_C-code,Autres localisations du cancer,765,20,12.9,11.5,14.3
+Suisse,Femmes,2006,"C00-43,C45-97",Tous les cancers (voir Méthode pour les critères d’inclusion),16683,436.9,324.2,317.3,331.1
+Suisse,Femmes,2007,C00-14,Cavité buccale et pharynx,315,8.2,6.6,5.6,7.6
+Suisse,Femmes,2007,C15,Œsophage,127,3.3,2.4,1.8,3
+Suisse,Femmes,2007,C16,Estomac,324,8.4,5.2,4.4,6.1
+Suisse,Femmes,2007,C17,Intestin grêle,76,2,1.4,1,1.9
+Suisse,Femmes,2007,C18-20,Côlon et Rectum,1839,47.8,31.4,29.4,33.6
+Suisse,Femmes,2007,C21,Anus et Canal anal,119,3.1,2.3,1.8,2.9
+Suisse,Femmes,2007,C22,Foie,181,4.7,3.1,2.5,3.8
+Suisse,Femmes,2007,C23-24,Vésicule et voies biliaires extra-hépat.,197,5.1,3.3,2.6,4
+Suisse,Femmes,2007,C25,Pancréas,528,13.7,8.2,7.2,9.3
+Suisse,Femmes,2007,C32,Larynx,34,0.9,0.7,0.4,1.1
+Suisse,Femmes,2007,C33-34,"Poumon, Bronches, Trachée",1386,36,27.1,25.1,29.1
+Suisse,Femmes,2007,"C38.4,C45.0",Plèvre,33,0.8,0.5,0.3,0.9
+Suisse,Femmes,2007,C40-41,"Os, Articulations, Cartilage",32,0.8,0.7,0.4,1.2
+Suisse,Femmes,2007,C43,Mélanome,1061,27.6,22,20.2,23.9
+Suisse,Femmes,2007,"C47,C49",Tissus mous,107,2.8,2.3,1.7,3.1
+Suisse,Femmes,2007,C50,Sein,5286,137.4,107.5,103.5,111.5
+Suisse,Femmes,2007,C53,Col de l'utérus,260,6.8,5.7,4.8,6.8
+Suisse,Femmes,2007,C54-55,Corps de l'utérus,930,24.2,18,16.4,19.8
+Suisse,Femmes,2007,C56,Ovaire,586,15.2,11.5,10.2,12.8
+Suisse,Femmes,2007,C64,Rein,273,7.1,4.9,4.1,5.9
+Suisse,Femmes,2007,C67,Vessie,274,7.1,4.3,3.6,5.1
+Suisse,Femmes,2007,"C65-66,C68",Autres organes urinaires,44,1.1,0.6,0.4,1
+Suisse,Femmes,2007,C69,Œil,45,1.2,1,0.6,1.6
+Suisse,Femmes,2007,C70-72,Cerveau et Système nerveux central,251,6.5,5.6,4.6,6.6
+Suisse,Femmes,2007,C73,Thyroïde,397,10.3,8.9,7.8,10.2
+Suisse,Femmes,2007,C81,Lymphome de Hodgkin,105,2.7,2.6,2,3.4
+Suisse,Femmes,2007,"C82-86,C96",Lymphome non hodgkinien,655,17,11.9,10.6,13.3
+Suisse,Femmes,2007,C90,Myélome multiple,267,6.9,4.6,3.8,5.4
+Suisse,Femmes,2007,C91-95,Leucémie,418,10.9,7.9,6.8,9
+Suisse,Femmes,2007,C91,Leucémie lymphoïde,228,5.9,4.4,3.6,5.4
+Suisse,Femmes,2007,C92-94,Leucémie myéloïde,180,4.7,3.3,2.6,4
+Suisse,Femmes,2007,Other_C-code,Autres localisations du cancer,811,21.1,13.6,12.3,15.1
+Suisse,Femmes,2007,"C00-43,C45-97",Tous les cancers (voir Méthode pour les critères d’inclusion),16961,440.8,325.8,318.9,332.7
+Suisse,Femmes,2008,C00-14,Cavité buccale et pharynx,323,8.3,6.5,5.6,7.6
+Suisse,Femmes,2008,C15,Œsophage,130,3.4,2.2,1.7,2.9
+Suisse,Femmes,2008,C16,Estomac,285,7.3,4.6,3.9,5.4
+Suisse,Femmes,2008,C17,Intestin grêle,56,1.4,1,0.7,1.5
+Suisse,Femmes,2008,C18-20,Côlon et Rectum,1810,46.5,30.4,28.5,32.5
+Suisse,Femmes,2008,C21,Anus et Canal anal,117,3,2.2,1.7,2.9
+Suisse,Femmes,2008,C22,Foie,145,3.7,2.6,2,3.2
+Suisse,Femmes,2008,C23-24,Vésicule et voies biliaires extra-hépat.,173,4.4,2.8,2.3,3.5
+Suisse,Femmes,2008,C25,Pancréas,562,14.5,9,8,10.2
+Suisse,Femmes,2008,C32,Larynx,24,0.6,0.5,0.3,0.8
+Suisse,Femmes,2008,C33-34,"Poumon, Bronches, Trachée",1482,38.1,27.8,25.9,29.9
+Suisse,Femmes,2008,"C38.4,C45.0",Plèvre,27,0.7,0.5,0.3,0.8
+Suisse,Femmes,2008,C40-41,"Os, Articulations, Cartilage",35,0.9,0.9,0.5,1.4
+Suisse,Femmes,2008,C43,Mélanome,1109,28.5,23.1,21.2,25.1
+Suisse,Femmes,2008,"C47,C49",Tissus mous,103,2.7,2.1,1.6,2.8
+Suisse,Femmes,2008,C50,Sein,5576,143.3,111.4,107.4,115.5
+Suisse,Femmes,2008,C53,Col de l'utérus,258,6.6,5.4,4.5,6.4
+Suisse,Femmes,2008,C54-55,Corps de l'utérus,914,23.5,17.4,15.9,19.1
+Suisse,Femmes,2008,C56,Ovaire,582,15,11.1,9.9,12.5
+Suisse,Femmes,2008,C64,Rein,296,7.6,5.2,4.4,6.1
+Suisse,Femmes,2008,C67,Vessie,282,7.3,4.2,3.5,4.9
+Suisse,Femmes,2008,"C65-66,C68",Autres organes urinaires,63,1.6,0.9,0.6,1.3
+Suisse,Femmes,2008,C69,Œil,32,0.8,0.7,0.4,1.1
+Suisse,Femmes,2008,C70-72,Cerveau et Système nerveux central,235,6.1,4.9,4.1,5.9
+Suisse,Femmes,2008,C73,Thyroïde,488,12.5,11.2,9.9,12.7
+Suisse,Femmes,2008,C81,Lymphome de Hodgkin,99,2.5,2.6,2,3.4
+Suisse,Femmes,2008,"C82-86,C96",Lymphome non hodgkinien,609,15.7,10.9,9.7,12.2
+Suisse,Femmes,2008,C90,Myélome multiple,212,5.4,3.4,2.8,4.1
+Suisse,Femmes,2008,C91-95,Leucémie,430,11.1,8.2,7.1,9.4
+Suisse,Femmes,2008,C91,Leucémie lymphoïde,223,5.7,4.3,3.5,5.2
+Suisse,Femmes,2008,C92-94,Leucémie myéloïde,191,4.9,3.8,3.1,4.7
+Suisse,Femmes,2008,Other_C-code,Autres localisations du cancer,830,21.3,13.9,12.6,15.4
+Suisse,Femmes,2008,"C00-43,C45-97",Tous les cancers (voir Méthode pour les critères d’inclusion),17289,444.3,327.9,321.1,334.9
+Suisse,Femmes,2009,C00-14,Cavité buccale et pharynx,290,7.4,5.7,4.9,6.7
+Suisse,Femmes,2009,C15,Œsophage,141,3.6,2.4,1.9,3
+Suisse,Femmes,2009,C16,Estomac,296,7.5,4.9,4.1,5.8
+Suisse,Femmes,2009,C17,Intestin grêle,83,2.1,1.6,1.1,2.1
+Suisse,Femmes,2009,C18-20,Côlon et Rectum,1880,47.8,31.1,29.1,33.2
+Suisse,Femmes,2009,C21,Anus et Canal anal,133,3.4,2.5,1.9,3.2
+Suisse,Femmes,2009,C22,Foie,184,4.7,3.1,2.5,3.9
+Suisse,Femmes,2009,C23-24,Vésicule et voies biliaires extra-hépat.,168,4.3,2.6,2.1,3.3
+Suisse,Femmes,2009,C25,Pancréas,625,15.9,9.6,8.5,10.7
+Suisse,Femmes,2009,C32,Larynx,39,1,0.8,0.5,1.2
+Suisse,Femmes,2009,C33-34,"Poumon, Bronches, Trachée",1547,39.3,28.8,26.8,30.9
+Suisse,Femmes,2009,"C38.4,C45.0",Plèvre,28,0.7,0.5,0.3,0.9
+Suisse,Femmes,2009,C40-41,"Os, Articulations, Cartilage",31,0.8,0.8,0.4,1.3
+Suisse,Femmes,2009,C43,Mélanome,1083,27.5,22,20.2,23.8
+Suisse,Femmes,2009,"C47,C49",Tissus mous,108,2.7,2.1,1.6,2.7
+Suisse,Femmes,2009,C50,Sein,5634,143.2,111.5,107.6,115.6
+Suisse,Femmes,2009,C53,Col de l'utérus,266,6.8,5.6,4.7,6.6
+Suisse,Femmes,2009,C54-55,Corps de l'utérus,895,22.7,16.5,15,18.1
+Suisse,Femmes,2009,C56,Ovaire,597,15.2,11.2,9.9,12.5
+Suisse,Femmes,2009,C64,Rein,269,6.8,4.9,4.1,5.8
+Suisse,Femmes,2009,C67,Vessie,275,7,4.1,3.4,4.9
+Suisse,Femmes,2009,"C65-66,C68",Autres organes urinaires,53,1.4,0.7,0.5,1.1
+Suisse,Femmes,2009,C69,Œil,42,1.1,0.8,0.5,1.3
+Suisse,Femmes,2009,C70-72,Cerveau et Système nerveux central,287,7.3,6.1,5.1,7.2
+Suisse,Femmes,2009,C73,Thyroïde,467,11.9,10.6,9.4,12
+Suisse,Femmes,2009,C81,Lymphome de Hodgkin,101,2.6,2.3,1.7,3
+Suisse,Femmes,2009,"C82-86,C96",Lymphome non hodgkinien,643,16.3,11.7,10.4,13
+Suisse,Femmes,2009,C90,Myélome multiple,242,6.1,4.1,3.4,4.9
+Suisse,Femmes,2009,C91-95,Leucémie,425,10.8,7.5,6.5,8.6
+Suisse,Femmes,2009,C91,Leucémie lymphoïde,208,5.3,3.8,3.1,4.6
+Suisse,Femmes,2009,C92-94,Leucémie myéloïde,196,5,3.6,2.9,4.4
+Suisse,Femmes,2009,Other_C-code,Autres localisations du cancer,744,18.9,12.3,11.1,13.7
+Suisse,Femmes,2009,"C00-43,C45-97",Tous les cancers (voir Méthode pour les critères d’inclusion),17576,446.6,328.4,321.6,335.3
+Suisse,Femmes,2010,C00-14,Cavité buccale et pharynx,315,7.9,5.9,5.1,6.9
+Suisse,Femmes,2010,C15,Œsophage,123,3.1,2.1,1.6,2.6
+Suisse,Femmes,2010,C16,Estomac,336,8.5,5.6,4.9,6.5
+Suisse,Femmes,2010,C17,Intestin grêle,81,2,1.4,1,1.9
+Suisse,Femmes,2010,C18-20,Côlon et Rectum,1724,43.4,27.9,26.1,29.7
+Suisse,Femmes,2010,C21,Anus et Canal anal,134,3.4,2.4,1.9,3
+Suisse,Femmes,2010,C22,Foie,222,5.6,3.6,3,4.3
+Suisse,Femmes,2010,C23-24,Vésicule et voies biliaires extra-hépat.,179,4.5,2.7,2.2,3.3
+Suisse,Femmes,2010,C25,Pancréas,621,15.6,9,8,10
+Suisse,Femmes,2010,C32,Larynx,41,1,0.8,0.5,1.2
+Suisse,Femmes,2010,C33-34,"Poumon, Bronches, Trachée",1499,37.7,27.1,25.4,29
+Suisse,Femmes,2010,"C38.4,C45.0",Plèvre,27,0.7,0.4,0.2,0.7
+Suisse,Femmes,2010,C40-41,"Os, Articulations, Cartilage",43,1.1,1,0.7,1.5
+Suisse,Femmes,2010,C43,Mélanome,1272,32,25.4,23.6,27.3
+Suisse,Femmes,2010,"C47,C49",Tissus mous,112,2.8,2.4,1.9,3.2
+Suisse,Femmes,2010,C50,Sein,5882,148,115,111.1,118.9
+Suisse,Femmes,2010,C53,Col de l'utérus,265,6.7,5.5,4.6,6.4
+Suisse,Femmes,2010,C54-55,Corps de l'utérus,840,21.1,15.4,14.1,16.9
+Suisse,Femmes,2010,C56,Ovaire,586,14.7,10.6,9.5,11.8
+Suisse,Femmes,2010,C64,Rein,292,7.4,5.2,4.5,6.1
+Suisse,Femmes,2010,C67,Vessie,268,6.8,4,3.3,4.7
+Suisse,Femmes,2010,"C65-66,C68",Autres organes urinaires,70,1.8,1,0.7,1.4
+Suisse,Femmes,2010,C69,Œil,14,0.4,0.2,0.1,0.4
+Suisse,Femmes,2010,C70-72,Cerveau et Système nerveux central,231,5.8,4.6,3.9,5.5
+Suisse,Femmes,2010,C73,Thyroïde,462,11.6,10.1,9,11.4
+Suisse,Femmes,2010,C81,Lymphome de Hodgkin,93,2.3,2.4,1.8,3
+Suisse,Femmes,2010,"C82-86,C96",Lymphome non hodgkinien,562,14.1,9.7,8.6,10.8
+Suisse,Femmes,2010,C90,Myélome multiple,259,6.5,4.4,3.7,5.1
+Suisse,Femmes,2010,C91-95,Leucémie,393,9.9,7.4,6.5,8.5
+Suisse,Femmes,2010,C91,Leucémie lymphoïde,181,4.6,3.6,2.9,4.4
+Suisse,Femmes,2010,C92-94,Leucémie myéloïde,204,5.1,3.8,3.1,4.5
+Suisse,Femmes,2010,Other_C-code,Autres localisations du cancer,806,20.3,12.4,11.2,13.6
+Suisse,Femmes,2010,"C00-43,C45-97",Tous les cancers (voir Méthode pour les critères d’inclusion),17752,446.7,325.6,319.3,332.1
+Suisse,Femmes,2011,C00-14,Cavité buccale et pharynx,378,9.4,6.9,6.1,7.9
+Suisse,Femmes,2011,C15,Œsophage,122,3,1.9,1.5,2.4
+Suisse,Femmes,2011,C16,Estomac,312,7.8,5,4.3,5.8
+Suisse,Femmes,2011,C17,Intestin grêle,73,1.8,1.3,0.9,1.7
+Suisse,Femmes,2011,C18-20,Côlon et Rectum,1864,46.5,30.4,28.6,32.3
+Suisse,Femmes,2011,C21,Anus et Canal anal,137,3.4,2.6,2,3.2
+Suisse,Femmes,2011,C22,Foie,189,4.7,3.3,2.7,4
+Suisse,Femmes,2011,C23-24,Vésicule et voies biliaires extra-hépat.,178,4.4,2.6,2.1,3.2
+Suisse,Femmes,2011,C25,Pancréas,607,15.1,9.4,8.4,10.4
+Suisse,Femmes,2011,C32,Larynx,41,1,0.8,0.5,1.1
+Suisse,Femmes,2011,C33-34,"Poumon, Bronches, Trachée",1600,39.9,28.7,26.9,30.5
+Suisse,Femmes,2011,"C38.4,C45.0",Plèvre,37,0.9,0.5,0.3,0.8
+Suisse,Femmes,2011,C40-41,"Os, Articulations, Cartilage",53,1.3,1.2,0.8,1.7
+Suisse,Femmes,2011,C43,Mélanome,1195,29.8,23.4,21.7,25.2
+Suisse,Femmes,2011,"C47,C49",Tissus mous,103,2.6,2,1.5,2.6
+Suisse,Femmes,2011,C50,Sein,5824,145.1,112,108.4,115.8
+Suisse,Femmes,2011,C53,Col de l'utérus,260,6.5,5.4,4.5,6.3
+Suisse,Femmes,2011,C54-55,Corps de l'utérus,955,23.8,16.9,15.5,18.4
+Suisse,Femmes,2011,C56,Ovaire,629,15.7,11.7,10.5,12.9
+Suisse,Femmes,2011,C64,Rein,280,7,4.6,3.9,5.4
+Suisse,Femmes,2011,C67,Vessie,269,6.7,4.2,3.6,4.9
+Suisse,Femmes,2011,"C65-66,C68",Autres organes urinaires,47,1.2,0.7,0.5,1
+Suisse,Femmes,2011,C69,Œil,41,1,0.8,0.5,1.3
+Suisse,Femmes,2011,C70-72,Cerveau et Système nerveux central,273,6.8,5.4,4.6,6.3
+Suisse,Femmes,2011,C73,Thyroïde,572,14.3,12.6,11.4,14
+Suisse,Femmes,2011,C81,Lymphome de Hodgkin,84,2.1,2.2,1.7,2.9
+Suisse,Femmes,2011,"C82-86,C96",Lymphome non hodgkinien,631,15.7,10.9,9.8,12.1
+Suisse,Femmes,2011,C90,Myélome multiple,219,5.5,3.6,3,4.3
+Suisse,Femmes,2011,C91-95,Leucémie,441,11,7.9,7,8.9
+Suisse,Femmes,2011,C91,Leucémie lymphoïde,219,5.5,3.9,3.3,4.7
+Suisse,Femmes,2011,C92-94,Leucémie myéloïde,217,5.4,3.9,3.3,4.7
+Suisse,Femmes,2011,Other_C-code,Autres localisations du cancer,798,19.9,12,10.9,13.2
+Suisse,Femmes,2011,"C00-43,C45-97",Tous les cancers (voir Méthode pour les critères d’inclusion),18212,453.9,331,324.8,337.3
+Suisse,Femmes,2012,C00-14,Cavité buccale et pharynx,370,9.1,6.6,5.8,7.6
+Suisse,Femmes,2012,C15,Œsophage,155,3.8,2.4,1.9,2.9
+Suisse,Femmes,2012,C16,Estomac,351,8.7,5.6,4.8,6.5
+Suisse,Femmes,2012,C17,Intestin grêle,87,2.1,1.6,1.2,2.1
+Suisse,Femmes,2012,C18-20,Côlon et Rectum,1883,46.5,30.1,28.2,32
+Suisse,Femmes,2012,C21,Anus et Canal anal,137,3.4,2.3,1.8,2.9
+Suisse,Femmes,2012,C22,Foie,220,5.4,3.6,3,4.3
+Suisse,Femmes,2012,C23-24,Vésicule et voies biliaires extra-hépat.,169,4.2,2.4,1.9,3
+Suisse,Femmes,2012,C25,Pancréas,741,18.3,10.7,9.7,11.8
+Suisse,Femmes,2012,C32,Larynx,42,1,0.7,0.5,1.1
+Suisse,Femmes,2012,C33-34,"Poumon, Bronches, Trachée",1659,40.9,28.9,27,30.8
+Suisse,Femmes,2012,"C38.4,C45.0",Plèvre,27,0.7,0.4,0.2,0.7
+Suisse,Femmes,2012,C40-41,"Os, Articulations, Cartilage",25,0.6,0.7,0.4,1.1
+Suisse,Femmes,2012,C43,Mélanome,1292,31.9,24.8,23,26.7
+Suisse,Femmes,2012,"C47,C49",Tissus mous,115,2.8,2.1,1.6,2.7
+Suisse,Femmes,2012,C50,Sein,6032,148.9,114.1,110.3,117.9
+Suisse,Femmes,2012,C53,Col de l'utérus,241,5.9,5.2,4.4,6.1
+Suisse,Femmes,2012,C54-55,Corps de l'utérus,911,22.5,16.2,14.9,17.7
+Suisse,Femmes,2012,C56,Ovaire,544,13.4,9.7,8.6,10.8
+Suisse,Femmes,2012,C64,Rein,318,7.9,5.1,4.4,6
+Suisse,Femmes,2012,C67,Vessie,286,7.1,4.1,3.5,4.8
+Suisse,Femmes,2012,"C65-66,C68",Autres organes urinaires,58,1.4,0.8,0.6,1.2
+Suisse,Femmes,2012,C69,Œil,27,0.7,0.6,0.3,0.9
+Suisse,Femmes,2012,C70-72,Cerveau et Système nerveux central,262,6.5,4.9,4.1,5.8
+Suisse,Femmes,2012,C73,Thyroïde,562,13.9,12.4,11.2,13.8
+Suisse,Femmes,2012,C81,Lymphome de Hodgkin,85,2.1,1.9,1.5,2.6
+Suisse,Femmes,2012,"C82-86,C96",Lymphome non hodgkinien,720,17.8,12.1,10.9,13.3
+Suisse,Femmes,2012,C90,Myélome multiple,307,7.6,4.7,4,5.5
+Suisse,Femmes,2012,C91-95,Leucémie,430,10.6,7.6,6.6,8.6
+Suisse,Femmes,2012,C91,Leucémie lymphoïde,199,4.9,3.5,2.9,4.3
+Suisse,Femmes,2012,C92-94,Leucémie myéloïde,221,5.5,3.9,3.2,4.7
+Suisse,Femmes,2012,Other_C-code,Autres localisations du cancer,729,18,11,9.9,12.1
+Suisse,Femmes,2012,"C00-43,C45-97",Tous les cancers (voir Méthode pour les critères d’inclusion),18786,463.7,333.4,327,339.8
+Suisse,Femmes,2013,C00-14,Cavité buccale et pharynx,366,8.9,6.6,5.8,7.5
+Suisse,Femmes,2013,C15,Œsophage,150,3.7,2.5,2,3
+Suisse,Femmes,2013,C16,Estomac,322,7.9,4.9,4.3,5.7
+Suisse,Femmes,2013,C17,Intestin grêle,106,2.6,1.8,1.4,2.3
+Suisse,Femmes,2013,C18-20,Côlon et Rectum,1926,47.1,30.1,28.4,31.9
+Suisse,Femmes,2013,C21,Anus et Canal anal,144,3.5,2.6,2.1,3.2
+Suisse,Femmes,2013,C22,Foie,231,5.7,3.5,2.9,4.1
+Suisse,Femmes,2013,C23-24,Vésicule et voies biliaires extra-hépat.,196,4.8,2.7,2.3,3.3
+Suisse,Femmes,2013,C25,Pancréas,661,16.1,9.7,8.8,10.7
+Suisse,Femmes,2013,C32,Larynx,36,0.9,0.6,0.4,1
+Suisse,Femmes,2013,C33-34,"Poumon, Bronches, Trachée",1670,40.8,28.5,26.8,30.2
+Suisse,Femmes,2013,"C38.4,C45.0",Plèvre,22,0.5,0.3,0.2,0.6
+Suisse,Femmes,2013,C40-41,"Os, Articulations, Cartilage",43,1.1,1,0.7,1.4
+Suisse,Femmes,2013,C43,Mélanome,1235,30.2,22.9,21.3,24.5
+Suisse,Femmes,2013,"C47,C49",Tissus mous,118,2.9,2.2,1.8,2.8
+Suisse,Femmes,2013,C50,Sein,6097,148.9,112.4,109,115.9
+Suisse,Femmes,2013,C53,Col de l'utérus,256,6.3,5.2,4.5,6.1
+Suisse,Femmes,2013,C54-55,Corps de l'utérus,912,22.3,15.8,14.6,17.2
+Suisse,Femmes,2013,C56,Ovaire,620,15.1,10.5,9.5,11.6
+Suisse,Femmes,2013,C64,Rein,316,7.7,5.3,4.6,6.1
+Suisse,Femmes,2013,C67,Vessie,271,6.6,3.8,3.2,4.4
+Suisse,Femmes,2013,"C65-66,C68",Autres organes urinaires,82,2,1.2,0.9,1.6
+Suisse,Femmes,2013,C69,Œil,21,0.5,0.4,0.2,0.6
+Suisse,Femmes,2013,C70-72,Cerveau et Système nerveux central,239,5.8,4.8,4.1,5.7
+Suisse,Femmes,2013,C73,Thyroïde,517,12.6,11.5,10.4,12.7
+Suisse,Femmes,2013,C81,Lymphome de Hodgkin,127,3.1,3.1,2.5,3.8
+Suisse,Femmes,2013,"C82-86,C96",Lymphome non hodgkinien,639,15.6,10.8,9.8,11.9
+Suisse,Femmes,2013,C90,Myélome multiple,232,5.7,3.6,3,4.2
+Suisse,Femmes,2013,C91-95,Leucémie,415,10.1,7,6.1,7.9
+Suisse,Femmes,2013,C91,Leucémie lymphoïde,210,5.1,3.5,2.9,4.2
+Suisse,Femmes,2013,C92-94,Leucémie myéloïde,201,4.9,3.4,2.9,4.1
+Suisse,Femmes,2013,Other_C-code,Autres localisations du cancer,751,18.3,11.1,10.1,12.2
+Suisse,Femmes,2013,"C00-43,C45-97",Tous les cancers (voir Méthode pour les critères d’inclusion),18722,457.3,326.6,320.8,332.4
+Suisse,Femmes,2014,C00-14,Cavité buccale et pharynx,357,8.6,6.2,5.5,7
+Suisse,Femmes,2014,C15,Œsophage,153,3.7,2.4,2,2.8
+Suisse,Femmes,2014,C16,Estomac,311,7.5,4.5,4,5.1
+Suisse,Femmes,2014,C17,Intestin grêle,107,2.6,1.6,1.3,2
+Suisse,Femmes,2014,C18-20,Côlon et Rectum,1929,46.6,29.2,27.7,30.7
+Suisse,Femmes,2014,C21,Anus et Canal anal,150,3.6,2.7,2.3,3.3
+Suisse,Femmes,2014,C22,Foie,202,4.9,3,2.6,3.6
+Suisse,Femmes,2014,C23-24,Vésicule et voies biliaires extra-hépat.,184,4.4,2.7,2.3,3.2
+Suisse,Femmes,2014,C25,Pancréas,642,15.5,9.5,8.7,10.4
+Suisse,Femmes,2014,C32,Larynx,40,1,0.7,0.5,1
+Suisse,Femmes,2014,C33-34,"Poumon, Bronches, Trachée",1633,39.4,27.4,26,29
+Suisse,Femmes,2014,"C38.4,C45.0",Plèvre,33,0.8,0.5,0.3,0.8
+Suisse,Femmes,2014,C40-41,"Os, Articulations, Cartilage",43,1,1,0.7,1.4
+Suisse,Femmes,2014,C43,Mélanome,1307,31.6,24,22.6,25.5
+Suisse,Femmes,2014,"C47,C49",Tissus mous,96,2.3,1.9,1.5,2.4
+Suisse,Femmes,2014,C50,Sein,5950,143.7,108.2,105.1,111.3
+Suisse,Femmes,2014,C53,Col de l'utérus,249,6,5.1,4.4,5.9
+Suisse,Femmes,2014,C54-55,Corps de l'utérus,897,21.7,15.6,14.4,16.7
+Suisse,Femmes,2014,C56,Ovaire,608,14.7,10.5,9.6,11.5
+Suisse,Femmes,2014,C64,Rein,292,7,4.9,4.3,5.6
+Suisse,Femmes,2014,C67,Vessie,291,7,4.3,3.7,4.9
+Suisse,Femmes,2014,"C65-66,C68",Autres organes urinaires,74,1.8,1,0.8,1.3
+Suisse,Femmes,2014,C69,Œil,22,0.5,0.4,0.2,0.6
+Suisse,Femmes,2014,C70-72,Cerveau et Système nerveux central,227,5.5,4.3,3.7,5
+Suisse,Femmes,2014,C73,Thyroïde,599,14.5,12.8,11.7,14
+Suisse,Femmes,2014,C81,Lymphome de Hodgkin,92,2.2,2.2,1.7,2.7
+Suisse,Femmes,2014,"C82-86,C96",Lymphome non hodgkinien,738,17.8,12.2,11.2,13.2
+Suisse,Femmes,2014,C90,Myélome multiple,239,5.8,3.7,3.2,4.3
+Suisse,Femmes,2014,C91-95,Leucémie,429,10.4,7.5,6.7,8.4
+Suisse,Femmes,2014,C91,Leucémie lymphoïde,213,5.1,3.9,3.3,4.5
+Suisse,Femmes,2014,C92-94,Leucémie myéloïde,206,5,3.6,3,4.2
+Suisse,Femmes,2014,Other_C-code,Autres localisations du cancer,811,19.6,11.6,10.7,12.6
+Suisse,Femmes,2014,"C00-43,C45-97",Tous les cancers (voir Méthode pour les critères d’inclusion),18704,451.7,321.6,316.5,326.9
