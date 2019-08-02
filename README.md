@@ -14,7 +14,6 @@ The overall script is composed by a core script which is linked to
 - R files to retrieve required parameters and a folder containing parameter tables (01_params_script_*, tab_params)
 - R files meant to be run on the high performance computing cluster UBELIX, used to do the 
   calibration and sensitivity analysis, in two distinct steps (02_UBE_part*)
-- R files meant to be run on the high performance computing cluster UBELIX (02_UBE_part*)
 - R files containing the different functions (03_function_*)
 
  ------------------------------------------------------------------------------------------------------
